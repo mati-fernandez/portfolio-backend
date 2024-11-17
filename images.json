@@ -1,20 +1,74 @@
 {
-  "avatar": {
-    "src": "https://portfolio-4oh.pages.dev/avatar.png",
-    "alt": "Matias profile picture"
-  },
   "skills": {
     "html5": {
       "src": "https://portfolio-4oh.pages.dev/html-5.png",
-      "alt": "HTML5"
+      "alt": "HTML5",
+      "progress": "55%"
     },
     "css3": {
       "src": "https://portfolio-4oh.pages.dev/css-3.png",
-      "alt": "CSS3"
+      "alt": "CSS3",
+      "progress": "63%"
     },
     "sass": {
       "src": "https://portfolio-4oh.pages.dev/sass.png",
-      "alt": "SASS"
+      "alt": "SASS",
+      "progress": "22%"
+    },
+    "js": {
+      "src": "https://portfolio-4oh.pages.dev/js.png",
+      "alt": "JavaScript",
+      "progress": "63%"
+    },
+    "ts": {
+      "src": "https://portfolio-4oh.pages.dev/ts.png",
+      "alt": "TypeScript",
+      "progress": "11%"
+    },
+    "git": {
+      "src": "https://portfolio-4oh.pages.dev/git.png",
+      "alt": "Git",
+      "progress": "33%"
+    },
+    "react": {
+      "src": "https://portfolio-4oh.pages.dev/react.png",
+      "alt": "React JS",
+      "progress": "60%"
+    },
+    "next": {
+      "src": "https://portfolio-4oh.pages.dev/nextjs.png",
+      "alt": "React JS",
+      "progress": "11%"
+    },
+    "prisma": {
+      "src": "https://portfolio-4oh.pages.dev/prisma.png",
+      "alt": "Prisma",
+      "progress": "11%"
+    },
+    "redux": {
+      "src": "https://portfolio-4oh.pages.dev/redux.png",
+      "alt": "Redux",
+      "progress": "11%"
+    },
+    "router": {
+      "src": "https://portfolio-4oh.pages.dev/router.png",
+      "alt": "Router V6",
+      "progress": "33%"
+    },
+    "figma": {
+      "src": "https://portfolio-4oh.pages.dev/figma.png",
+      "alt": "Figma",
+      "progress": "52%"
+    },
+    "english": {
+      "src": "https://portfolio-4oh.pages.dev/english.png",
+      "alt": "English",
+      "progress": "65%"
+    },
+    "sql": {
+      "src": "https://portfolio-4oh.pages.dev/sql.png",
+      "alt": "SQL",
+      "progress": "11%"
     }
   }
 }
