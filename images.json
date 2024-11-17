@@ -51,7 +51,7 @@
       "progress": "11%"
     },
     "router": {
-      "src": "https://portfolio-4oh.pages.dev/router.png",
+      "src": "https://portfolio-4oh.pages.dev/react-router.png",
       "alt": "Router V6",
       "progress": "33%"
     },
@@ -69,6 +69,38 @@
       "src": "https://portfolio-4oh.pages.dev/sql.png",
       "alt": "SQL",
       "progress": "11%"
+    }
+  },
+  "projects": {
+    "rqm": {
+      "src": "https://portfolio-4oh.pages.dev/random-quote-machine.png",
+      "alt": "Random Quote Machine",
+      "link": "https://mati-fernandez.github.io/random-quote-machine/"
+    },
+    "mdp": {
+      "src": "https://portfolio-4oh.pages.dev/markdown-previewer.png",
+      "alt": "Random Quote Machine",
+      "link": "https://mati-fernandez.github.io/markdown-previewer/"
+    },
+    "drum": {
+      "src": "https://portfolio-4oh.pages.dev/drum-machine.png",
+      "alt": "Drum Machine",
+      "link": "https://mati-fernandez.github.io/drum-machine/"
+    },
+    "calculator": {
+      "src": "https://portfolio-4oh.pages.dev/js-calculator.png",
+      "alt": "Drum Machine",
+      "link": "https://mati-fernandez.github.io/js-calculator/"
+    },
+    "pomodoro": {
+      "src": "https://portfolio-4oh.pages.dev/pomodoro-clock.png",
+      "alt": "Drum Machine",
+      "link": "https://mati-fernandez.github.io/pomodoro-clock/"
+    },
+    "portfolioReact": {
+      "src": "https://portfolio-4oh.pages.dev/new-portfolio.png",
+      "alt": "New Portfolio",
+      "link": "https://mati-fernandez.github.io/portfolio-react/"
     }
   }
 }
