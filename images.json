@@ -122,22 +122,22 @@
     "draw": {
       "src": "https://portfolio-4oh.pages.dev/dibujo-canvas.png",
       "alt": "Dibujo en canvas",
-      "link": "https://mati-fernandez.github.io/portfolio-vanilla-js/dibujo-canvas/index.html"
+      "link": "https://mati-fernandez.github.io/portfolio-vanilla-js/mis-proyectos/dibujo-canvas/index.html"
     },
     "tetris": {
-      "src": "https://portfolio-4oh.pages.dev/tetris.png",
+      "src": "https://portfolio-4oh.pages.dev/tetris-vanilla.png",
       "alt": "Tetris en Vanilla JS",
-      "link": "https://mati-fernandez.github.io/portfolio-vanilla-js/tetris-vanilla/index.html"
+      "link": "https://mati-fernandez.github.io/portfolio-vanilla-js/mis-proyectos/tetris-vanilla/index.html"
     },
     "monkeytype": {
       "src": "https://portfolio-4oh.pages.dev/monkeytype.png",
       "alt": "Monkeytype",
-      "link": "https://mati-fernandez.github.io/portfolio-vanilla-js/monkeytype/index.html"
+      "link": "https://mati-fernandez.github.io/portfolio-vanilla-js/mis-proyectos/monkeytype/index.html"
     },
     "excel": {
       "src": "https://portfolio-4oh.pages.dev/excel.png",
       "alt": "Excel",
-      "link": "https://mati-fernandez.github.io/portfolio-vanilla-js/excel/index.html"
+      "link": "https://mati-fernandez.github.io/portfolio-vanilla-js/mis-proyectos/excel/index.html"
     },
     "nextjsBlog": {
       "src": "https://portfolio-4oh.pages.dev/nextjs-blog.png",
