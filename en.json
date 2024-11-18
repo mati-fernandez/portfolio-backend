@@ -50,7 +50,7 @@
     },
     "op": {
       "title": "Old Portfolio (Vanilla JS)",
-      "description": "In the old portfolio I was able to put into practice event-driven programming with Vanilla JavaScript and the responsive design.",
+      "description": "In the old portfolio I was able to put into practice event-driven programming with Vanilla JavaScript and the responsive design. Also more recently I incorporated the fetch to have the content modification of all the portfolios centralized in a JSON.",
       "close": "Close",
       "open": "Open project"
     }

@@ -113,7 +113,39 @@
       "link": "https://mati-fernandez.github.io/portfolio-react/"
     }
   },
-  "excercises": {
+  "exercises": {
+    "dom": {
+      "src": "https://portfolio-4oh.pages.dev/dom-ejercicios.png",
+      "alt": "Ejercicios del Document Object Module",
+      "link": "https://mati-fernandez.github.io/portfolio-vanilla-js/dom-ejercicios/index.html"
+    },
+    "draw": {
+      "src": "https://portfolio-4oh.pages.dev/dibujo-canvas.png",
+      "alt": "Dibujo en canvas",
+      "link": "https://mati-fernandez.github.io/portfolio-vanilla-js/dibujo-canvas/index.html"
+    },
+    "tetris": {
+      "src": "https://portfolio-4oh.pages.dev/tetris.png",
+      "alt": "Tetris en Vanilla JS",
+      "link": "https://mati-fernandez.github.io/portfolio-vanilla-js/tetris-vanilla/index.html"
+    },
+    "monkeytype": {
+      "src": "https://portfolio-4oh.pages.dev/monkeytype.png",
+      "alt": "Monkeytype",
+      "link": "https://mati-fernandez.github.io/portfolio-vanilla-js/monkeytype/index.html"
+    },
+    "excel": {
+      "src": "https://portfolio-4oh.pages.dev/excel.png",
+      "alt": "Excel",
+      "link": "https://mati-fernandez.github.io/portfolio-vanilla-js/excel/index.html"
+    },
+    "nextjsBlog": {
+      "src": "https://portfolio-4oh.pages.dev/nextjs-blog.png",
+      "alt": "Blog (Next.js)",
+      "link": "https://mati-nextjs-blog.vercel.app/"
+    }
+  },
+  "certificates": {
     "dom": {
       "src": "https://portfolio-4oh.pages.dev/dom-ejercicios.png",
       "alt": "Ejercicios del Document Object Module",

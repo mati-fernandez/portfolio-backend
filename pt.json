@@ -50,7 +50,7 @@
     },
     "op": {
       "title": "Portfólio Antigo (JS Puro)",
-      "description": "No portfólio antigo, pratiquei programação orientada a eventos com JavaScript Puro e design responsivo.",
+      "description": "No portfólio antigo, pratiquei programação orientada a eventos com JavaScript Puro e design responsivo. Também mais recentemente incorporei o fetch para centralizar a modificação do conteúdo de todos os portfólios em um JSON.",
       "close": "Fechar",
       "open": "Abrir projeto"
     }
