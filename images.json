@@ -3,22 +3,22 @@
     "html5": {
       "src": "https://portfolio-4oh.pages.dev/html-5.png",
       "alt": "HTML5",
-      "progress": "55%"
+      "progress": "69%"
     },
     "css3": {
       "src": "https://portfolio-4oh.pages.dev/css-3.png",
       "alt": "CSS3",
-      "progress": "63%"
+      "progress": "72%"
     },
     "sass": {
       "src": "https://portfolio-4oh.pages.dev/sass.png",
       "alt": "SASS",
-      "progress": "22%"
+      "progress": "27%"
     },
     "js": {
       "src": "https://portfolio-4oh.pages.dev/js.png",
       "alt": "JavaScript",
-      "progress": "63%"
+      "progress": "75%"
     },
     "ts": {
       "src": "https://portfolio-4oh.pages.dev/ts.png",
@@ -28,17 +28,17 @@
     "git": {
       "src": "https://portfolio-4oh.pages.dev/git.png",
       "alt": "Git",
-      "progress": "33%"
+      "progress": "65%"
     },
     "react": {
       "src": "https://portfolio-4oh.pages.dev/react.png",
       "alt": "React JS",
-      "progress": "60%"
+      "progress": "70%"
     },
     "next": {
       "src": "https://portfolio-4oh.pages.dev/nextjs.png",
       "alt": "React JS",
-      "progress": "11%"
+      "progress": "17%"
     },
     "prisma": {
       "src": "https://portfolio-4oh.pages.dev/prisma.png",
@@ -48,7 +48,7 @@
     "redux": {
       "src": "https://portfolio-4oh.pages.dev/redux.png",
       "alt": "Redux",
-      "progress": "11%"
+      "progress": "18%"
     },
     "router": {
       "src": "https://portfolio-4oh.pages.dev/react-router.png",
@@ -58,17 +58,22 @@
     "figma": {
       "src": "https://portfolio-4oh.pages.dev/figma.png",
       "alt": "Figma",
-      "progress": "52%"
+      "progress": "58%"
     },
     "english": {
       "src": "https://portfolio-4oh.pages.dev/english.png",
       "alt": "English",
-      "progress": "65%"
+      "progress": "75%"
     },
     "sql": {
       "src": "https://portfolio-4oh.pages.dev/sql.png",
       "alt": "SQL",
       "progress": "11%"
+    },
+    "linux": {
+      "src": "https://portfolio-4oh.pages.dev/linux.png",
+      "alt": "Linux",
+      "progress": "19%"
     }
   },
   "projects": {
@@ -79,7 +84,7 @@
     },
     "mdp": {
       "src": "https://portfolio-4oh.pages.dev/markdown-previewer.png",
-      "alt": "Random Quote Machine",
+      "alt": "Markdown Previewer",
       "link": "https://mati-fernandez.github.io/markdown-previewer/"
     },
     "drum": {
@@ -89,18 +94,55 @@
     },
     "calculator": {
       "src": "https://portfolio-4oh.pages.dev/js-calculator.png",
-      "alt": "Drum Machine",
+      "alt": "JS Calculator",
       "link": "https://mati-fernandez.github.io/js-calculator/"
     },
     "pomodoro": {
       "src": "https://portfolio-4oh.pages.dev/pomodoro-clock.png",
-      "alt": "Drum Machine",
+      "alt": "Pomodoro Clock",
       "link": "https://mati-fernandez.github.io/pomodoro-clock/"
+    },
+    "portfolioJS": {
+      "src": "https://portfolio-4oh.pages.dev/portfolio-react.png",
+      "alt": "Portfolio Vanilla JS",
+      "link": "https://mati-fernandez.github.io/portfolio-react/"
     },
     "portfolioReact": {
       "src": "https://portfolio-4oh.pages.dev/portfolio-react.png",
-      "alt": "New Portfolio",
+      "alt": "Portfolio React JS",
       "link": "https://mati-fernandez.github.io/portfolio-react/"
+    }
+  },
+  "excercises": {
+    "dom": {
+      "src": "https://portfolio-4oh.pages.dev/dom-ejercicios.png",
+      "alt": "Ejercicios del Document Object Module",
+      "link": "https://mati-fernandez.github.io/portfolio-vanilla-js/dom-ejercicios/index.html"
+    },
+    "draw": {
+      "src": "https://portfolio-4oh.pages.dev/dibujo-canvas.png",
+      "alt": "Dibujo en canvas",
+      "link": "https://mati-fernandez.github.io/portfolio-vanilla-js/dibujo-canvas/index.html"
+    },
+    "tetris": {
+      "src": "https://portfolio-4oh.pages.dev/tetris.png",
+      "alt": "Tetris en Vanilla JS",
+      "link": "https://mati-fernandez.github.io/portfolio-vanilla-js/tetris-vanilla/index.html"
+    },
+    "monkeytype": {
+      "src": "https://portfolio-4oh.pages.dev/monkeytype.png",
+      "alt": "Monkeytype",
+      "link": "https://mati-fernandez.github.io/portfolio-vanilla-js/monkeytype/index.html"
+    },
+    "excel": {
+      "src": "https://portfolio-4oh.pages.dev/excel.png",
+      "alt": "Excel",
+      "link": "https://mati-fernandez.github.io/portfolio-vanilla-js/excel/index.html"
+    },
+    "nextjsBlog": {
+      "src": "https://portfolio-4oh.pages.dev/nextjs-blog.png",
+      "alt": "Blog (Next.js)",
+      "link": "https://mati-nextjs-blog.vercel.app/"
     }
   }
 }
