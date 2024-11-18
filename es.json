@@ -49,9 +49,15 @@
         "close": "Cerrar",
         "open": "Abrir proyecto"
       },
-      "op": {
-        "title": "Portafolio Antiguo (JS Vainilla)",
+      "portfolioJS": {
+        "title": "Portafolio (Vainilla JS)",
         "description": "En el viejo portafolio pude poner en práctica la programación orientada a eventos con Vanilla JavaScript y el diseño responsivo.",
+        "close": "Cerrar",
+        "open": "Abrir proyecto"
+      },
+      "portfolioReact": {
+        "title": "Portafolio (React JS)",
+        "description": "En este proyecto, experimenté mejoras en la legibilidad y modularidad del código en comparación con el portfolio anterior, que fue realizado en Vanilla JS. \n\n Puse en práctica el uso de hooks como useState y useEffect, hooks personalizados, contexto, componentes, estilos complejos con CSS, renderizado condicional con JSX, manejo de rutas con React Router, entre otras cosas.",
         "close": "Cerrar",
         "open": "Abrir proyecto"
       }
