@@ -160,53 +160,60 @@
       "src": "https://portfolio-4oh.pages.dev/cert-front.png",
       "alt": "Certificado Frontend Development Libraries",
       "link": "https://www.freecodecamp.org/certification/matifer/front-end-development-libraries"
-    }
-  },
-  "secondaryCertifications": {
+    },
     "ics": {
       "src": "https://portfolio-4oh.pages.dev/cert-ics.png",
       "alt": "Certificado Introducción a la Ciberseguridad",
-      "link": "https://www.credly.com/badges/86f90a98-4290-4eb1-8c12-909598a92c6d"
+      "link": "https://www.credly.com/badges/86f90a98-4290-4eb1-8c12-909598a92c6d",
+      "class": "secondary"
     },
     "html": {
       "src": "https://portfolio-4oh.pages.dev/cert-html.jpeg",
       "alt": "Certificado HTML",
-      "link": "https://www.educacionit.com/perfil/matias-fernandez-93622/certificado/9621"
+      "link": "https://www.educacionit.com/perfil/matias-fernandez-93622/certificado/9621",
+      "class": "secondary"
     },
     "html5css3": {
       "src": "https://portfolio-4oh.pages.dev/cert-html5-css3.jpeg",
       "alt": "Certificado HTML5 y CSS3",
-      "link": "https://www.educacionit.com/perfil/matias-fernandez-93622/certificado/13704"
+      "link": "https://www.educacionit.com/perfil/matias-fernandez-93622/certificado/13704",
+      "class": "secondary"
     },
     "bbddsql": {
       "src": "https://portfolio-4oh.pages.dev/cert-bbdd.jpeg",
       "alt": "Certificado Based de Datos y SQL",
-      "link": "https://www.educacionit.com/perfil/matias-fernandez-93622/certificado/9672"
+      "link": "https://www.educacionit.com/perfil/matias-fernandez-93622/certificado/9672",
+      "class": "secondary"
     },
     "flash": {
       "src": "https://portfolio-4oh.pages.dev/cert-flash.jpeg",
       "alt": "Certificado Flash",
-      "link": "https://www.educacionit.com/perfil/matias-fernandez-93622/certificado/9628"
+      "link": "https://www.educacionit.com/perfil/matias-fernandez-93622/certificado/9628",
+      "class": "secondary"
     },
     "presu": {
       "src": "https://portfolio-4oh.pages.dev/cert-presu.jpeg",
       "alt": "Certificado Flash",
-      "link": "https://www.educacionit.com/perfil/matias-fernandez-93622/certificado/12631"
+      "link": "https://www.educacionit.com/perfil/matias-fernandez-93622/certificado/12631",
+      "class": "secondary"
     },
     "photoshop": {
       "src": "https://portfolio-4oh.pages.dev/cert-photo.jpeg",
       "alt": "Certificado Photoshop",
-      "link": "https://www.educacionit.com/perfil/matias-fernandez-93622/certificado/9614"
+      "link": "https://www.educacionit.com/perfil/matias-fernandez-93622/certificado/9614",
+      "class": "secondary"
     },
     "cssdivs": {
       "src": "https://portfolio-4oh.pages.dev/cert-css-divs.jpeg",
       "alt": "Certificado CSS y DIVs",
-      "link": "https://www.educacionit.com/perfil/matias-fernandez-93622/certificado/13571"
+      "link": "https://www.educacionit.com/perfil/matias-fernandez-93622/certificado/13571",
+      "class": "secondary"
     },
     "jquery": {
       "src": "https://portfolio-4oh.pages.dev/cert-jquery.jpeg",
       "alt": "Certificado CSS y DIVs",
-      "link": "https://www.educacionit.com/perfil/matias-fernandez-93622/certificado/13273"
+      "link": "https://www.educacionit.com/perfil/matias-fernandez-93622/certificado/13273",
+      "class": "secondary"
     }
   }
 }

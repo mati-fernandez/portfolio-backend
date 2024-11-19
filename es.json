@@ -118,7 +118,7 @@
       "text": "Si ingresas en 'Ver certificación', en cada una de ellas (freeCodeCamp) podrás ver los proyectos realizados en ese curso.",
       "continue": "Continuar"
     },
-    "primaryCertifications": {
+    "certificationsList": {
       "rwd": {
         "title": "Diseño Web Responsivo",
         "description": "Certificación que abarca los conceptos esenciales del diseño web, incluyendo CSS Flexbox, CSS Grid, y diseño adaptable a diferentes tamaños de pantalla.",
@@ -136,9 +136,7 @@
         "description": "Certificación enfocada en el uso de librerías populares como React, Redux, y herramientas para el desarrollo de interfaces de usuario.",
         "close": "Cerrar",
         "open": "Ver Certificación"
-      }
-    },
-    "secondaryCertifications": {
+      },
       "ics": {
         "title": "Introducción a la Ciberseguridad",
         "description": "Realicé este curso para constatar conocimientos básicos en ciberseguridad.",
