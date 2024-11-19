@@ -145,36 +145,68 @@
       "link": "https://mati-nextjs-blog.vercel.app/"
     }
   },
-  "certificates": {
-    "dom": {
-      "src": "https://portfolio-4oh.pages.dev/dom-ejercicios.png",
-      "alt": "Ejercicios del Document Object Module",
-      "link": "https://mati-fernandez.github.io/portfolio-vanilla-js/dom-ejercicios/index.html"
+  "certifications": {
+    "rwd": {
+      "src": "https://portfolio-4oh.pages.dev/cert-res.png",
+      "alt": "Certificado Responsive Web Design",
+      "link": "https://www.freecodecamp.org/certification/matifer/responsive-web-design"
     },
-    "draw": {
-      "src": "https://portfolio-4oh.pages.dev/dibujo-canvas.png",
-      "alt": "Dibujo en canvas",
-      "link": "https://mati-fernandez.github.io/portfolio-vanilla-js/dibujo-canvas/index.html"
+    "js": {
+      "src": "https://portfolio-4oh.pages.dev/cert-js.png",
+      "alt": "Certificado JavaScript Algorithms and Data Structures",
+      "link": "https://www.freecodecamp.org/certification/matifer/javascript-algorithms-and-data-structures"
     },
-    "tetris": {
-      "src": "https://portfolio-4oh.pages.dev/tetris.png",
-      "alt": "Tetris en Vanilla JS",
-      "link": "https://mati-fernandez.github.io/portfolio-vanilla-js/tetris-vanilla/index.html"
+    "fdl": {
+      "src": "https://portfolio-4oh.pages.dev/cert-front.png",
+      "alt": "Certificado Frontend Development Libraries",
+      "link": "https://www.freecodecamp.org/certification/matifer/front-end-development-libraries"
+    }
+  },
+  "secondaryCertifications": {
+    "ics": {
+      "src": "https://portfolio-4oh.pages.dev/cert-ics.png",
+      "alt": "Certificado Introducción a la Ciberseguridad",
+      "link": "https://www.credly.com/badges/86f90a98-4290-4eb1-8c12-909598a92c6d"
     },
-    "monkeytype": {
-      "src": "https://portfolio-4oh.pages.dev/monkeytype.png",
-      "alt": "Monkeytype",
-      "link": "https://mati-fernandez.github.io/portfolio-vanilla-js/monkeytype/index.html"
+    "html": {
+      "src": "https://portfolio-4oh.pages.dev/cert-html.jpeg",
+      "alt": "Certificado HTML",
+      "link": "https://www.educacionit.com/perfil/matias-fernandez-93622/certificado/9621"
     },
-    "excel": {
-      "src": "https://portfolio-4oh.pages.dev/excel.png",
-      "alt": "Excel",
-      "link": "https://mati-fernandez.github.io/portfolio-vanilla-js/excel/index.html"
+    "html5css3": {
+      "src": "https://portfolio-4oh.pages.dev/cert-html5-css3.jpeg",
+      "alt": "Certificado HTML5 y CSS3",
+      "link": "https://www.educacionit.com/perfil/matias-fernandez-93622/certificado/13704"
     },
-    "nextjsBlog": {
-      "src": "https://portfolio-4oh.pages.dev/nextjs-blog.png",
-      "alt": "Blog (Next.js)",
-      "link": "https://mati-nextjs-blog.vercel.app/"
+    "bbddsql": {
+      "src": "https://portfolio-4oh.pages.dev/cert-bbdd.jpeg",
+      "alt": "Certificado Based de Datos y SQL",
+      "link": "https://www.educacionit.com/perfil/matias-fernandez-93622/certificado/9672"
+    },
+    "flash": {
+      "src": "https://portfolio-4oh.pages.dev/cert-flash.jpeg",
+      "alt": "Certificado Flash",
+      "link": "https://www.educacionit.com/perfil/matias-fernandez-93622/certificado/9628"
+    },
+    "presu": {
+      "src": "https://portfolio-4oh.pages.dev/cert-presu.jpeg",
+      "alt": "Certificado Flash",
+      "link": "https://www.educacionit.com/perfil/matias-fernandez-93622/certificado/12631"
+    },
+    "photoshop": {
+      "src": "https://portfolio-4oh.pages.dev/cert-photo.jpeg",
+      "alt": "Certificado Photoshop",
+      "link": "https://www.educacionit.com/perfil/matias-fernandez-93622/certificado/9614"
+    },
+    "cssdivs": {
+      "src": "https://portfolio-4oh.pages.dev/cert-css-divs.jpeg",
+      "alt": "Certificado CSS y DIVs",
+      "link": "https://www.educacionit.com/perfil/matias-fernandez-93622/certificado/13571"
+    },
+    "jquery": {
+      "src": "https://portfolio-4oh.pages.dev/cert-jquery.jpeg",
+      "alt": "Certificado CSS y DIVs",
+      "link": "https://www.educacionit.com/perfil/matias-fernandez-93622/certificado/13273"
     }
   }
 }
