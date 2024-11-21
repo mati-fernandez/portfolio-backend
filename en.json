@@ -49,9 +49,15 @@
         "close": "Close",
         "open": "Open project"
       },
-      "op": {
-        "title": "Old Portfolio (Vanilla JS)",
+      "portfolioJS": {
+        "title": "Portfolio (Vanilla JS)",
         "description": "In the old portfolio I was able to put into practice event-driven programming with Vanilla JavaScript and the responsive design. Also more recently I incorporated the fetch to have the content modification of all the portfolios centralized in a JSON.",
+        "close": "Close",
+        "open": "Open project"
+      },
+      "portfolioReact": {
+        "title": "Portfolio (React)",
+        "description": "In this project, I experienced improvements in the readability and modularity of the code compared to the previous portfolio, which was made in Vanilla JS. \n\n I put into practice the use of hooks like useState and useEffect, custom hooks, context, components, complex styles with CSS, conditional rendering with JSX, route management with React Router, among other things.",
         "close": "Close",
         "open": "Open project"
       }
