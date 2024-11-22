@@ -31,19 +31,19 @@
         "close": "Fechar",
         "open": "Abrir projeto"
       },
-      "dm": {
+      "drum": {
         "title": "Caixa de Ritmos (React)",
         "description": "Caixa de sons em que pratiquei o gerenciamento de estado e efeitos no React, além de grid no CSS.",
         "close": "Fechar",
         "open": "Abrir projeto"
       },
-      "calc": {
+      "calculator": {
         "title": "Calculadora JS (React)",
         "description": "Calculadora onde pratiquei o gerenciamento de estado e efeitos no React, além de grid no CSS. Também me fez pensar bastante para resolver a lógica de cada possível situação e torná-la 'inquebrável'.",
         "close": "Fechar",
         "open": "Abrir projeto"
       },
-      "pc": {
+      "pomodoro": {
         "title": "Relógio Pomodoro (React)",
         "description": "No relógio Pomodoro, pratiquei um gerenciamento mais avançado de estado, além de efeitos utilizando callbacks e monitoramento de dependências. Não foi fácil passar todos os testes, pois tem uma lógica avançada para o nível que eu tinha até aquele momento. Também usei useRef.",
         "close": "Fechar",
@@ -100,7 +100,7 @@
         "close": "Fechar",
         "open": "Ver Exercício"
       },
-      "nextjs-blog": {
+      "nextjsBlog": {
         "title": "Blog (Next.js)",
         "description": "Projeto para iniciantes. Começando a me familiarizar com Next.js e sua estrutura. Desta vez é um blog que utiliza as bibliotecas 'gray-matter' e 'markdown-it' para formatar os artigos.",
         "close": "Fechar",
@@ -125,7 +125,7 @@
         "close": "Fechar",
         "open": "Ver Certificação"
       },
-      "javascript": {
+      "javaScript": {
         "title": "Algoritmos JS & Estruturas de Dados",
         "description": "Certificação que cobre temas como algoritmos de ordenação, estruturas de dados comuns em JavaScript e a resolução de problemas complexos. Se você entrar, poderá ver os projetos realizados neste curso...",
         "close": "Fechar",
@@ -173,7 +173,7 @@
         "close": "Fechar",
         "open": "Ver Certificação"
       },
-      "photo": {
+      "photoshop": {
         "title": "Photoshop",
         "description": "Nos meus primeiros passos no mundo web, participei deste curso de Photoshop.",
         "close": "Fechar",

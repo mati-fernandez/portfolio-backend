@@ -31,19 +31,19 @@
         "close": "Cerrar",
         "open": "Abrir proyecto"
       },
-      "dm": {
+      "drum": {
         "title": "Caja de Ritmos (React)",
         "description": "Caja de sonidos en la cual puse en práctica el manejo de estado y de efecto en React, y de grid en Css",
         "close": "Cerrar",
         "open": "Abrir proyecto"
       },
-      "calc": {
+      "calculator": {
         "title": "Calculadora JS (React)",
         "description": "Calculadora en la cual puse en práctica el manejo de estado y de efecto en React, y de grid en Css. También recuerdo que me hizo pensar mucho para resolver la lógica de cada posible situación para hacerla 'irrompible'.",
         "close": "Cerrar",
         "open": "Abrir proyecto"
       },
-      "pc": {
+      "pomodoro": {
         "title": "Reloj Pomodoro (React)",
         "description": "En el reloj pomodoro puse en práctica un manejo mas avanzado del estado como también del efecto con la utilización de callbacks y el monitoreo de dependencias. No fue fácil pasar todos los test ya que tiene una lógica avanzada para el nivel que traía hasta ese momento. También se usó useRef.",
         "close": "Cerrar",
@@ -100,7 +100,7 @@
         "close": "Cerrar",
         "open": "Ver Ejercicio"
       },
-      "nextjs-blog": {
+      "nextjsBlog": {
         "title": "Blog (Next.js)",
         "description": "Proyecto para principiantes. Comenzando a familiarizarse con Next.js y su estructura. En esta ocasión se trata de un blog que usa las bibliotecas 'gray-matter' y 'markdown-it' para dar formato a los artículos.",
         "close": "Cerrar",
@@ -125,7 +125,7 @@
         "close": "Cerrar",
         "open": "Ver Certificación"
       },
-      "javascript": {
+      "javaScript": {
         "title": "Algoritmos JS & Estructuras de datos",
         "description": "Certificación en la que se cubren temas como algoritmos de ordenamiento, estructuras de datos comunes en JavaScript, y la resolución de problemas complejos.",
         "close": "Cerrar",
@@ -173,7 +173,7 @@
         "close": "Cerrar",
         "open": "Ver Certificación"
       },
-      "photo": {
+      "photoshop": {
         "title": "Photoshop",
         "description": "En mis primeros pasos en el mundo web, asistí a este curso de Photoshop.",
         "close": "Cerrar",
