@@ -156,7 +156,7 @@
         "close": "Close",
         "open": "View Certification"
       },
-      "bbdd": {
+      "bbddsql": {
         "title": "Introduction to Databases and SQL",
         "description": "In my first steps in the web world, I attended this introductory course on databases and SQL.",
         "close": "Close",

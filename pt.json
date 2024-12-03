@@ -155,7 +155,7 @@
         "close": "Fechar",
         "open": "Ver Certificação"
       },
-      "bbdd": {
+      "bbddsql": {
         "title": "Introdução a Bancos de Dados e SQL",
         "description": "Nos meus primeiros passos no mundo web, participei deste curso introdutório de bancos de dados e SQL.",
         "close": "Fechar",
