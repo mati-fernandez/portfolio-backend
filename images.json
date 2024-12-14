@@ -1,216 +1,216 @@
 {
   "skills": {
     "html5": {
-      "src": "https://portfolio-4oh.pages.dev/html-5.png",
+      "src": "html-5.png",
       "alt": "HTML5",
       "progress": "69%"
     },
     "css3": {
-      "src": "https://portfolio-4oh.pages.dev/css-3.png",
+      "src": "css-3.png",
       "alt": "CSS3",
       "progress": "72%"
     },
     "sass": {
-      "src": "https://portfolio-4oh.pages.dev/sass.png",
+      "src": "sass.png",
       "alt": "SASS",
       "progress": "27%"
     },
     "js": {
-      "src": "https://portfolio-4oh.pages.dev/js.png",
+      "src": "js.png",
       "alt": "JavaScript",
       "progress": "75%"
     },
     "ts": {
-      "src": "https://portfolio-4oh.pages.dev/ts.png",
+      "src": "ts.png",
       "alt": "TypeScript",
       "progress": "11%"
     },
     "git": {
-      "src": "https://portfolio-4oh.pages.dev/git.png",
+      "src": "git.png",
       "alt": "Git",
       "progress": "65%"
     },
     "react": {
-      "src": "https://portfolio-4oh.pages.dev/react.png",
+      "src": "react.png",
       "alt": "React JS",
       "progress": "70%"
     },
     "next": {
-      "src": "https://portfolio-4oh.pages.dev/nextjs.png",
+      "src": "nextjs.png",
       "alt": "Next.js",
       "progress": "17%"
     },
     "prisma": {
-      "src": "https://portfolio-4oh.pages.dev/prisma.png",
+      "src": "prisma.png",
       "alt": "Prisma",
       "progress": "11%"
     },
     "redux": {
-      "src": "https://portfolio-4oh.pages.dev/redux.png",
+      "src": "redux.png",
       "alt": "Redux",
       "progress": "18%"
     },
     "router": {
-      "src": "https://portfolio-4oh.pages.dev/react-router.png",
+      "src": "react-router.png",
       "alt": "Router V6",
       "progress": "33%"
     },
     "figma": {
-      "src": "https://portfolio-4oh.pages.dev/figma.png",
+      "src": "figma.png",
       "alt": "Figma",
       "progress": "58%"
     },
     "english": {
-      "src": "https://portfolio-4oh.pages.dev/english.png",
+      "src": "english.png",
       "alt": "English",
       "progress": "75%"
     },
     "sql": {
-      "src": "https://portfolio-4oh.pages.dev/sql.png",
+      "src": "sql.png",
       "alt": "SQL",
       "progress": "11%"
     },
     "linux": {
-      "src": "https://portfolio-4oh.pages.dev/linux.png",
+      "src": "linux.png",
       "alt": "Linux",
       "progress": "19%"
     }
   },
   "projects": {
     "rqm": {
-      "src": "https://portfolio-4oh.pages.dev/random-quote-machine.png",
+      "src": "random-quote-machine.png",
       "alt": "Random Quote Machine",
       "link": "https://mati-fernandez.github.io/random-quote-machine/"
     },
     "mdp": {
-      "src": "https://portfolio-4oh.pages.dev/markdown-previewer.png",
+      "src": "markdown-previewer.png",
       "alt": "Markdown Previewer",
       "link": "https://mati-fernandez.github.io/markdown-previewer/"
     },
     "drum": {
-      "src": "https://portfolio-4oh.pages.dev/drum-machine.png",
+      "src": "drum-machine.png",
       "alt": "Drum Machine",
       "link": "https://mati-fernandez.github.io/drum-machine/"
     },
     "calculator": {
-      "src": "https://portfolio-4oh.pages.dev/js-calculator.png",
+      "src": "js-calculator.png",
       "alt": "JS Calculator",
       "link": "https://mati-fernandez.github.io/js-calculator/"
     },
     "pomodoro": {
-      "src": "https://portfolio-4oh.pages.dev/pomodoro-clock.png",
+      "src": "pomodoro-clock.png",
       "alt": "Pomodoro Clock",
       "link": "https://mati-fernandez.github.io/pomodoro-clock/"
     },
     "portfolioJS": {
-      "src": "https://portfolio-4oh.pages.dev/portfolio-js.png",
+      "src": "portfolio-js.png",
       "alt": "Portfolio Vanilla JS",
       "link": "https://mati-fernandez.github.io/portfolio-vanilla-js"
     },
     "portfolioReact": {
-      "src": "https://portfolio-4oh.pages.dev/portfolio-react.png",
+      "src": "portfolio-react.png",
       "alt": "Portfolio React JS",
       "link": "https://mati-fernandez.github.io/portfolio-react/"
     }
   },
   "exercises": {
     "dom": {
-      "src": "https://portfolio-4oh.pages.dev/dom-ejercicios.png",
+      "src": "dom-ejercicios.png",
       "alt": "Ejercicios del Document Object Module",
       "link": "https://mati-fernandez.github.io/portfolio-vanilla-js/dom-ejercicios/index.html"
     },
     "draw": {
-      "src": "https://portfolio-4oh.pages.dev/dibujo-canvas.png",
+      "src": "dibujo-canvas.png",
       "alt": "Dibujo en canvas",
       "link": "https://mati-fernandez.github.io/portfolio-vanilla-js/mis-proyectos/dibujo-canvas/index.html"
     },
     "tetris": {
-      "src": "https://portfolio-4oh.pages.dev/tetris-vanilla.png",
+      "src": "tetris-vanilla.png",
       "alt": "Tetris en Vanilla JS",
       "link": "https://mati-fernandez.github.io/portfolio-vanilla-js/mis-proyectos/tetris-vanilla/index.html"
     },
     "monkeytype": {
-      "src": "https://portfolio-4oh.pages.dev/monkeytype.png",
+      "src": "monkeytype.png",
       "alt": "Monkeytype",
       "link": "https://mati-fernandez.github.io/portfolio-vanilla-js/mis-proyectos/monkeytype/index.html"
     },
     "excel": {
-      "src": "https://portfolio-4oh.pages.dev/excel.png",
+      "src": "excel.png",
       "alt": "Excel",
       "link": "https://mati-fernandez.github.io/portfolio-vanilla-js/mis-proyectos/excel/index.html"
     },
     "nextjsBlog": {
-      "src": "https://portfolio-4oh.pages.dev/nextjs-blog.png",
+      "src": "nextjs-blog.png",
       "alt": "Blog (Next.js)",
       "link": "https://mati-nextjs-blog.vercel.app/"
     }
   },
   "certifications": {
     "rwd": {
-      "src": "https://portfolio-4oh.pages.dev/cert-resp.png",
+      "src": "cert-resp.png",
       "alt": "Certificado Responsive Web Design",
       "link": "https://www.freecodecamp.org/certification/matifer/responsive-web-design"
     },
     "javaScript": {
-      "src": "https://portfolio-4oh.pages.dev/cert-js.png",
+      "src": "cert-js.png",
       "alt": "Certificado JavaScript Algorithms and Data Structures",
       "link": "https://www.freecodecamp.org/certification/matifer/javascript-algorithms-and-data-structures"
     },
     "fdl": {
-      "src": "https://portfolio-4oh.pages.dev/cert-front.png",
+      "src": "cert-front.png",
       "alt": "Certificado Frontend Development Libraries",
       "link": "https://www.freecodecamp.org/certification/matifer/front-end-development-libraries"
     },
     "ics": {
-      "src": "https://portfolio-4oh.pages.dev/cert-ics.png",
+      "src": "cert-ics.png",
       "alt": "Certificado Introducción a la Ciberseguridad",
       "link": "https://www.credly.com/badges/86f90a98-4290-4eb1-8c12-909598a92c6d",
       "class": "secondary"
     },
     "html": {
-      "src": "https://portfolio-4oh.pages.dev/cert-html.jpeg",
+      "src": "cert-html.jpeg",
       "alt": "Certificado HTML",
       "link": "https://www.educacionit.com/perfil/matias-fernandez-93622/certificado/9621",
       "class": "secondary"
     },
     "html5css3": {
-      "src": "https://portfolio-4oh.pages.dev/cert-html5-css3.jpeg",
+      "src": "cert-html5-css3.jpeg",
       "alt": "Certificado HTML5 y CSS3",
       "link": "https://www.educacionit.com/perfil/matias-fernandez-93622/certificado/13704",
       "class": "secondary"
     },
     "bbddsql": {
-      "src": "https://portfolio-4oh.pages.dev/cert-bbdd.jpeg",
+      "src": "cert-bbdd.jpeg",
       "alt": "Certificado Based de Datos y SQL",
       "link": "https://www.educacionit.com/perfil/matias-fernandez-93622/certificado/9672",
       "class": "secondary"
     },
     "flash": {
-      "src": "https://portfolio-4oh.pages.dev/cert-flash.jpeg",
+      "src": "cert-flash.jpeg",
       "alt": "Certificado Flash",
       "link": "https://www.educacionit.com/perfil/matias-fernandez-93622/certificado/9628",
       "class": "secondary"
     },
     "presu": {
-      "src": "https://portfolio-4oh.pages.dev/cert-presu.jpeg",
+      "src": "cert-presu.jpeg",
       "alt": "Certificado Flash",
       "link": "https://www.educacionit.com/perfil/matias-fernandez-93622/certificado/12631",
       "class": "secondary"
     },
     "photoshop": {
-      "src": "https://portfolio-4oh.pages.dev/cert-photo.jpeg",
+      "src": "cert-photo.jpeg",
       "alt": "Certificado Photoshop",
       "link": "https://www.educacionit.com/perfil/matias-fernandez-93622/certificado/9614",
       "class": "secondary"
     },
     "cssdivs": {
-      "src": "https://portfolio-4oh.pages.dev/cert-css-divs.jpeg",
+      "src": "cert-css-divs.jpeg",
       "alt": "Certificado CSS y DIVs",
       "link": "https://www.educacionit.com/perfil/matias-fernandez-93622/certificado/13571",
       "class": "secondary"
     },
     "jquery": {
-      "src": "https://portfolio-4oh.pages.dev/cert-jquery.jpeg",
+      "src": "cert-jquery.jpeg",
       "alt": "Certificado CSS y DIVs",
       "link": "https://www.educacionit.com/perfil/matias-fernandez-93622/certificado/13273",
       "class": "secondary"
