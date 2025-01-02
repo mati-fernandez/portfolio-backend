@@ -9,12 +9,12 @@
     "home": "Início",
     "skills": "Habilidades",
     "projects": "Projetos",
-    "exercises": "Exercícios",
+    "exercises": "Odisseia",
     "certifications": "Certificações"
   },
   "projects": {
     "info": {
-      "title": "Seção de projetos",
+      "title": "Seção de Projetos",
       "text": "Nesta seção, apresento trabalhos de minha autoria, sejam desafios que me pediram em um curso ou ideias que tive por conta própria.",
       "continue": "Continuar"
     },
@@ -65,8 +65,8 @@
   },
   "exercises": {
     "info": {
-      "title": "Seção de exercícios",
-      "text": "Nesta seção, eu reuni alguns trabalhos realizados durante cursos. Ou seja, não os fiz sozinho, mas eles me ensinaram algo.",
+      "title": "Seção de Odisseia",
+      "text": "Nesta seção compartilho projetos realizados durante meus estudos, onde acompanhei os passos das aulas e me aprofundei nos conceitos conforme surgiam dúvidas.",
       "continue": "Continuar"
     },
     "exercisesList": {
@@ -114,7 +114,7 @@
       "view-less": "Ocultar certificações secundárias..."
     },
     "info": {
-      "title": "Seção de certificações",
+      "title": "Seção de Certificações",
       "text": "Se você clicar em 'Ver Certificação', em cada uma delas (freeCodeCamp) poderá ver os projetos realizados neste curso.",
       "continue": "Continuar"
     },

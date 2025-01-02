@@ -9,7 +9,7 @@
     "home": "Home",
     "skills": "Skills",
     "projects": "Projects",
-    "exercises": "Exercises",
+    "exercises": "Odyssey",
     "certifications": "Certifications"
   },
   "projects": {
@@ -66,8 +66,8 @@
 
   "exercises": {
     "info": {
-      "title": "Exercises section",
-      "text": "In this section, I have compiled some work done during courses. That means I didn't do them on my own, but they taught me something.",
+      "title": "Odyssey section",
+      "text": "In this section I share projects carried out during my studies, where I followed the steps of the classes and went deeper into the concepts as doubts arose.",
       "continue": "Continue"
     },
     "exercisesList": {
