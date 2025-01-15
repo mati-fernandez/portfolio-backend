@@ -146,19 +146,19 @@
       },
       "html": {
         "title": "HTML",
-        "description": "In my first steps in the web world, I attended this introductory course on HTML.",
+        "description": "HTML fundamentals, basic web page structure and creating accessible content.",
         "close": "Close",
         "open": "View Certification"
       },
       "html5css3": {
         "title": "HTML5 and CSS3",
-        "description": "In my first steps in the web world, I attended this introductory course on HTML5 and CSS3.",
+        "description": "Introduction to modern web design techniques using HTML5 and CSS3, including multimedia elements and advanced styles.",
         "close": "Close",
         "open": "View Certification"
       },
       "bbddsql": {
         "title": "Introduction to Databases and SQL",
-        "description": "In my first steps in the web world, I attended this introductory course on databases and SQL.",
+        "description": "Creating interactive multimedia content with Flash, ideal for animations and dynamic presentations.",
         "close": "Close",
         "open": "View Certification"
       },
@@ -170,25 +170,25 @@
       },
       "presu": {
         "title": "Digital Budgeting",
-        "description": "In my first steps in the web world, I attended this course on digital budgeting.",
+        "description": "Study of techniques to calculate costs and prepare effective budgets for web projects.",
         "close": "Close",
         "open": "View Certification"
       },
       "photoshop": {
         "title": "Photoshop",
-        "description": "In my first steps in the web world, I attended this Photoshop course.",
+        "description": "Image editing and graphic design using essential Adobe Photoshop tools.",
         "close": "Close",
         "open": "View Certification"
       },
       "cssdivs": {
         "title": "CSS and DIVs",
-        "description": "In my first steps in the web world, I attended this course on CSS and DIVs.",
+        "description": "Using CSS for web page design and structural organization with DIVs, optimizing layouts.",
         "close": "Close",
         "open": "View Certification"
       },
       "jquery": {
         "title": "jQuery",
-        "description": "In my first steps in the web world, I attended this jQuery course.",
+        "description": "Using jQuery to simplify DOM manipulation, visual effects, and event handling in JavaScript.",
         "close": "Close",
         "open": "View Certification"
       }

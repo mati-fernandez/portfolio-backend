@@ -145,49 +145,49 @@
       },
       "html": {
         "title": "HTML",
-        "description": "En mis primeros pasos en el mundo web, asistí a este curso introductorio a HTML",
+        "description": "Fundamentos de HTML, estructura básica de páginas web y creación de contenido accesible.",
         "close": "Cerrar",
         "open": "Ver Certificación"
       },
       "html5css3": {
         "title": "HTM5 y CSS3",
-        "description": "En mis primeros pasos en el mundo web, asistí a este curso introductorio a HTML5 y CSS3",
+        "description": "Introducción a las técnicas modernas de diseño web con HTML5 y CSS3, incluyendo elementos multimedia y estilos avanzados.",
         "close": "Cerrar",
         "open": "Ver Certificación"
       },
       "bbddsql": {
         "title": "Introducción a Bases de datos y SQL",
-        "description": "En mis primeros pasos en el mundo web, asistí a este curso introductorio bases de datos y sql",
+        "description": "Principios básicos de bases de datos relacionales y consulta de datos mediante SQL.",
         "close": "Cerrar",
         "open": "Ver Certificación"
       },
       "flash": {
         "title": "Flash",
-        "description": "En mis primeros pasos en el mundo web, asistí a este curso introductorio a Flash, pero en realidad ya tenía experiencia usándolo",
+        "description": "Creación de contenido multimedia interactivo con Flash, ideal para animaciones y presentaciones dinámicas.",
         "close": "Cerrar",
         "open": "Ver Certificación"
       },
       "presu": {
         "title": "Presupuesto Web",
-        "description": "En mis primeros pasos en el mundo web, asistí a este curso sobre presupuesto digital.",
+        "description": "Estudio de técnicas para calcular costos y elaborar presupuestos efectivos para proyectos web.",
         "close": "Cerrar",
         "open": "Ver Certificación"
       },
       "photoshop": {
         "title": "Photoshop",
-        "description": "En mis primeros pasos en el mundo web, asistí a este curso de Photoshop.",
+        "description": "Edición de imágenes y diseño gráfico utilizando herramientas esenciales de Adobe Photoshop.",
         "close": "Cerrar",
         "open": "Ver Certificación"
       },
       "cssdivs": {
         "title": "CSS y DIVs",
-        "description": "En mis primeros pasos en el mundo web, asistí a este curso sobre CSS y DIVs.",
+        "description": "Uso de CSS para diseño de páginas web y organización estructural con DIVs, optimizando layouts.",
         "close": "Cerrar",
         "open": "Ver Certificación"
       },
       "jquery": {
         "title": "jQuery",
-        "description": "En mis primeros pasos en el mundo web, asistí a este curso de jQuery.",
+        "description": "Uso de jQuery para simplificar la manipulación del DOM, efectos visuales y manejo de eventos en JavaScript.",
         "close": "Cerrar",
         "open": "Ver Certificación"
       }
