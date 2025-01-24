@@ -158,13 +158,13 @@
       },
       "bbddsql": {
         "title": "Introduction to Databases and SQL",
-        "description": "Creating interactive multimedia content with Flash, ideal for animations and dynamic presentations.",
+        "description": "Basic principles of relational databases and data querying using SQL.",
         "close": "Close",
         "open": "View Certification"
       },
       "flash": {
         "title": "Flash",
-        "description": "In my first steps in the web world, I attended this introductory course on Flash, but I already had experience using it.",
+        "description": "Creating interactive multimedia content with Flash, ideal for animations and dynamic presentations.",
         "close": "Close",
         "open": "View Certification"
       },
