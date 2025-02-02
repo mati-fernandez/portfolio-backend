@@ -9,7 +9,7 @@
     "home": "Início",
     "skills": "Habilidades",
     "projects": "Projetos",
-    "exercises": "Odisseia",
+    "odyssey": "Odisseia",
     "certifications": "Certificações"
   },
   "projects": {
@@ -63,13 +63,13 @@
       }
     }
   },
-  "exercises": {
+  "odyssey": {
     "info": {
       "title": "Seção de Odisseia",
       "text": "Nesta seção compartilho projetos realizados durante meus estudos, onde acompanhei os passos das aulas e me aprofundei nos conceitos conforme surgiam dúvidas.",
       "continue": "Continuar"
     },
-    "exercisesList": {
+    "odysseyList": {
       "dom": {
         "title": "DOM (JS Puro)",
         "description": "Exercício prático sobre a manipulação do DOM com JavaScript, explorando eventos e modificando o conteúdo dinamicamente.",

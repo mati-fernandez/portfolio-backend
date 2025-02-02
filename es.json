@@ -9,7 +9,7 @@
     "home": "Inicio",
     "skills": "Habilidades",
     "projects": "Proyectos",
-    "exercises": "Odisea",
+    "odyssey": "Odisea",
     "certifications": "Certificaciones"
   },
   "projects": {
@@ -63,13 +63,13 @@
       }
     }
   },
-  "exercises": {
+  "odyssey": {
     "info": {
       "title": "Sección Odisea",
       "text": "En esta sección comparto proyectos realizados durante mis estudios, donde seguí los pasos de las clases y fui profundizando en los conceptos a medida que me iban surgiendo dudas.",
       "continue": "Continuar"
     },
-    "exercisesList": {
+    "odysseyList": {
       "dom": {
         "title": "DOM (JS Vainilla)",
         "description": "Ejercicio práctico sobre la manipulación del DOM con JavaScript, explorando eventos y modificando el contenido dinámicamente.",

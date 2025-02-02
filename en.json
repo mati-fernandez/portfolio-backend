@@ -9,7 +9,7 @@
     "home": "Home",
     "skills": "Skills",
     "projects": "Projects",
-    "exercises": "Odyssey",
+    "odyssey": "Odyssey",
     "certifications": "Certifications"
   },
   "projects": {
@@ -64,13 +64,13 @@
     }
   },
 
-  "exercises": {
+  "odyssey": {
     "info": {
       "title": "Odyssey section",
       "text": "In this section I share projects carried out during my studies, where I followed the steps of the classes and went deeper into the concepts as doubts arose.",
       "continue": "Continue"
     },
-    "exercisesList": {
+    "odysseyList": {
       "dom": {
         "title": "DOM (Vanilla JS; for PC)",
         "description": "Practical exercise on DOM manipulation with JavaScript, exploring events and dynamically modifying content.",
