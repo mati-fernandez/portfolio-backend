@@ -109,6 +109,12 @@
         "description": "Projeto para iniciantes. Começando a me familiarizar com Next.js e sua estrutura. Desta vez é um blog que utiliza as bibliotecas 'gray-matter' e 'markdown-it' para formatar os artigos.",
         "close": "Fechar",
         "open": "Ver Exercício"
+      },
+      "tasksList": {
+        "title": "Lista de Tarefas (React + TS)",
+        "description": "Mini projeto para revisar TypeScript. Esta é uma lista de tarefas com a capacidade de adicionar e remover itens.",
+        "close": "Fechar",
+        "open": "Ver Exercício"
       }
     }
   },

@@ -146,6 +146,12 @@
       "alt": "Blog (Next.js)",
       "link": "https://mati-nextjs-blog.vercel.app/",
       "class": "secondary"
+    },
+    "tasksList": {
+      "src": "tasks-list.png",
+      "alt": "Tasks List (React + TS)",
+      "link": "https://mati-fernandez.github.io/repaso-ts/",
+      "class": "secondary"
     }
   },
   "certifications": {
