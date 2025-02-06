@@ -64,6 +64,10 @@
     }
   },
   "odyssey": {
+    "buttons": {
+      "view-more": "Ver mais odisseias...",
+      "view-less": "Ver menos odisseias..."
+    },
     "info": {
       "title": "Seção de Odisseia",
       "text": "Nesta seção compartilho projetos realizados durante meus estudos, onde acompanhei os passos das aulas e me aprofundei nos conceitos conforme surgiam dúvidas.",
@@ -73,12 +77,6 @@
       "dom": {
         "title": "DOM (JS Puro)",
         "description": "Exercício prático sobre a manipulação do DOM com JavaScript, explorando eventos e modificando o conteúdo dinamicamente.",
-        "close": "Fechar",
-        "open": "Ver Exercício"
-      },
-      "draw": {
-        "title": "Desenho (JS Puro; para PC)",
-        "description": "Introdução à criação de gráficos na web usando o elemento Canvas do HTML5 e JavaScript para desenhar.",
         "close": "Fechar",
         "open": "Ver Exercício"
       },
@@ -100,6 +98,12 @@
         "close": "Fechar",
         "open": "Ver Exercício"
       },
+      "draw": {
+        "title": "Desenho (JS Puro; para PC)",
+        "description": "Introdução à criação de gráficos na web usando o elemento Canvas do HTML5 e JavaScript para desenhar.",
+        "close": "Fechar",
+        "open": "Ver Exercício"
+      },
       "nextjsBlog": {
         "title": "Blog (Next.js)",
         "description": "Projeto para iniciantes. Começando a me familiarizar com Next.js e sua estrutura. Desta vez é um blog que utiliza as bibliotecas 'gray-matter' e 'markdown-it' para formatar os artigos.",
@@ -110,8 +114,8 @@
   },
   "certifications": {
     "buttons": {
-      "view-more": "Ver certificações secundárias",
-      "view-less": "Ocultar certificações secundárias..."
+      "view-more": "Ver mais certificações...",
+      "view-less": "Ver menos certificações..."
     },
     "info": {
       "title": "Seção de Certificações",

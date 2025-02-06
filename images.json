@@ -119,11 +119,7 @@
       "alt": "Ejercicios del Document Object Module",
       "link": "https://mati-fernandez.github.io/portfolio-vanilla-js/dom-ejercicios/index.html"
     },
-    "draw": {
-      "src": "dibujo-canvas.png",
-      "alt": "Dibujo en canvas",
-      "link": "https://mati-fernandez.github.io/portfolio-vanilla-js/mis-proyectos/dibujo-canvas/index.html"
-    },
+
     "tetris": {
       "src": "tetris-vanilla.png",
       "alt": "Tetris en Vanilla JS",
@@ -139,10 +135,17 @@
       "alt": "Excel",
       "link": "https://mati-fernandez.github.io/portfolio-vanilla-js/mis-proyectos/excel/index.html"
     },
+    "draw": {
+      "src": "dibujo-canvas.png",
+      "alt": "Dibujo en canvas",
+      "link": "https://mati-fernandez.github.io/portfolio-vanilla-js/mis-proyectos/dibujo-canvas/index.html",
+      "class": "secondary"
+    },
     "nextjsBlog": {
       "src": "nextjs-blog.png",
       "alt": "Blog (Next.js)",
-      "link": "https://mati-nextjs-blog.vercel.app/"
+      "link": "https://mati-nextjs-blog.vercel.app/",
+      "class": "secondary"
     }
   },
   "certifications": {

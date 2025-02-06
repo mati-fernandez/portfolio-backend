@@ -64,6 +64,10 @@
     }
   },
   "odyssey": {
+    "buttons": {
+      "view-more": "Ver más odiseas...",
+      "view-less": "Ver menos odiseas..."
+    },
     "info": {
       "title": "Sección Odisea",
       "text": "En esta sección comparto proyectos realizados durante mis estudios, donde seguí los pasos de las clases y fui profundizando en los conceptos a medida que me iban surgiendo dudas.",
@@ -76,12 +80,7 @@
         "close": "Cerrar",
         "open": "Ver Ejercicio"
       },
-      "draw": {
-        "title": "Dibujo (JS Vainilla; para PC)",
-        "description": "Introducción a la creación de gráficos en la web usando el elemento Canvas de HTML5 y JavaScript para dibujar.",
-        "close": "Cerrar",
-        "open": "Ver Ejercicio"
-      },
+
       "tetris": {
         "title": "Tetris (JS Vainilla)",
         "description": "Implementación del clásico juego de Tetris usando solo JavaScript, HTML y CSS, poniendo en práctica el manejo del tiempo y la manipulación del DOM.",
@@ -100,6 +99,12 @@
         "close": "Cerrar",
         "open": "Ver Ejercicio"
       },
+      "draw": {
+        "title": "Dibujo (JS Vainilla; para PC)",
+        "description": "Introducción a la creación de gráficos en la web usando el elemento Canvas de HTML5 y JavaScript para dibujar.",
+        "close": "Cerrar",
+        "open": "Ver Ejercicio"
+      },
       "nextjsBlog": {
         "title": "Blog (Next.js)",
         "description": "Proyecto para principiantes. Comenzando a familiarizarse con Next.js y su estructura. En esta ocasión se trata de un blog que usa las bibliotecas 'gray-matter' y 'markdown-it' para dar formato a los artículos.",
@@ -110,8 +115,8 @@
   },
   "certifications": {
     "buttons": {
-      "view-more": "Ver certificaciones secundarias...",
-      "view-less": "Ocultar certificaciones secundarias..."
+      "view-more": "Ver más certificaciones...",
+      "view-less": "Ver menos certificaciones..."
     },
     "info": {
       "title": "Sección Certificaciones",
