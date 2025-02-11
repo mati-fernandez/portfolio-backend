@@ -65,8 +65,8 @@
   },
   "odyssey": {
     "buttons": {
-      "view-more": "Mostrar odiseas secundarias...",
-      "view-less": "Ocultar odiseas secundarias..."
+      "viewMore": "Mostrar odiseas secundarias...",
+      "viewLess": "Ocultar odiseas secundarias..."
     },
     "info": {
       "title": "Sección Odisea",
@@ -127,8 +127,8 @@
   },
   "certifications": {
     "buttons": {
-      "view-more": "Mostrar certificaciones secundarias...",
-      "view-less": "Ocultar certificaciones secundarias..."
+      "viewMore": "Mostrar certificaciones secundarias...",
+      "viewLess": "Ocultar certificaciones secundarias..."
     },
     "info": {
       "title": "Sección Certificaciones",
