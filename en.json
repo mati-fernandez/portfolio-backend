@@ -99,6 +99,12 @@
         "close": "Close",
         "open": "View Exercise"
       },
+      "ecommerce": {
+        "title": "eCommerce (Next.js)",
+        "description": "I developed a FullStack application with Next.js 15, using Server Components, Server Actions and new caching mechanisms to optimize performance. I integrated Sanity CMS, Clerk for authentication, Stripe for payments and Tailwind CSS with ShadCN UI for layout. Zustand handled global state, and the application was deployed in Vercel. (Use 42 repeatedly for card and 424 for code; Ad blockers can break the app).",
+        "close": "Close",
+        "open": "View Exercise"
+      },
       "draw": {
         "title": "Draw (Vanilla JS; for PC)",
         "description": "Introduction to creating graphics on the web using the HTML5 Canvas element and JavaScript to draw.",
