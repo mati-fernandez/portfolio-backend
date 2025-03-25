@@ -23,7 +23,7 @@
     "ts": {
       "src": "ts.png",
       "alt": "TypeScript",
-      "progress": "11%"
+      "progress": "25%"
     },
     "git": {
       "src": "git.png",
@@ -38,7 +38,7 @@
     "next": {
       "src": "nextjs.png",
       "alt": "Next.js",
-      "progress": "17%"
+      "progress": "27%"
     },
     "prisma": {
       "src": "prisma.png",
@@ -74,6 +74,11 @@
       "src": "linux.png",
       "alt": "Linux",
       "progress": "19%"
+    },
+    "portugues": {
+      "src": "portugues.png",
+      "alt": "Português",
+      "progress": "14%"
     }
   },
   "projects": {
