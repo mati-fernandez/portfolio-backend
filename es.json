@@ -154,6 +154,12 @@
         "close": "Cerrar",
         "open": "Ver Certificación"
       },
+      "tse": {
+        "title": "TypeScript Esencial",
+        "description": "Curso que cubre los fundamentos de TypeScript, incluyendo tipos, interfaces y la integración con JavaScript.",
+        "close": "Cerrar",
+        "open": "Ver Certificación"
+      },
       "ics": {
         "title": "Introducción a la Ciberseguridad",
         "description": "Realicé este curso para constatar conocimientos básicos en ciberseguridad.",

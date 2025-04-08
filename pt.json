@@ -153,6 +153,12 @@
         "close": "Fechar",
         "open": "Ver Certificação"
       },
+      "tse": {
+        "title": "TypeScript Essencial",
+        "description": "Certificação que cobre os fundamentos do TypeScript, incluindo tipos, interfaces e classes.",
+        "close": "Fechar",
+        "open": "Ver Certificação"
+      },
       "ics": {
         "title": "Introdução à segurança cibernética",
         "description": "Fiz este curso para verificar conhecimentos básicos em segurança cibernética.",

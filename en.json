@@ -154,6 +154,12 @@
         "close": "Close",
         "open": "View Certification"
       },
+      "tse": {
+        "title": "Essential TypeScript",
+        "description": "Certification covering the essential concepts of TypeScript, including types, interfaces, and advanced features.",
+        "close": "Close",
+        "open": "View Certification"
+      },
       "ics": {
         "title": "Introduction to Cybersecurity",
         "description": "I took this course to verify basic knowledge in cybersecurity.",

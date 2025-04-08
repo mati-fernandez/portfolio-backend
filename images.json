@@ -28,7 +28,7 @@
     "git": {
       "src": "git.png",
       "alt": "Git",
-      "progress": "65%"
+      "progress": "58%"
     },
     "react": {
       "src": "react.png",
@@ -179,6 +179,12 @@
       "src": "cert-front.png",
       "alt": "Certificado Frontend Development Libraries",
       "link": "https://www.freecodecamp.org/certification/matifer/front-end-development-libraries"
+    },
+    "tse": {
+      "src": "cert-tse.png",
+      "alt": "Certificado TypeScript Esencial",
+      "link": "https://www.linkedin.com/learning/certificates/333ba067df4fd0a742309afca84d0c1079e2ce0a30aa775cc9136cef6f192c18?trk=share_certificate",
+      "class": "secondary"
     },
     "ics": {
       "src": "cert-ics.png",
