@@ -12,6 +12,54 @@
     "odyssey": "Odisea",
     "certifications": "Certificaciones"
   },
+  "skills": {
+    "html5": { "title": "HTML5" },
+    "css3": {
+      "title": "CSS3"
+    },
+    "sass": {
+      "title": "SASS"
+    },
+    "js": {
+      "title": "JavaScript"
+    },
+    "ts": {
+      "title": "TypeScript"
+    },
+    "git": {
+      "title": "GIT"
+    },
+    "react": {
+      "title": "React"
+    },
+    "next": {
+      "title": "Next.js"
+    },
+    "prisma": {
+      "title": "Prisma"
+    },
+    "redux": {
+      "title": "Redux"
+    },
+    "router": {
+      "title": "Router"
+    },
+    "figma": {
+      "title": "Figma"
+    },
+    "english": {
+      "title": "Inglés"
+    },
+    "sql": {
+      "title": "SQL"
+    },
+    "linux": {
+      "title": "Linux"
+    },
+    "portugues": {
+      "title": "Portugués"
+    }
+  },
   "projects": {
     "info": {
       "title": "Sección Proyectos",
