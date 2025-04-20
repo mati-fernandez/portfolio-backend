@@ -111,6 +111,12 @@
         "description": "Neste projeto experimentei melhorias na legibilidade e modularidade do código em relação ao portfólio anterior, que foi feito em Vanilla JS. \n\n Coloquei em prática o uso de hooks como useState e useEffect, custom hooks, contexto, componentes, estilos complexos com CSS, renderização condicional com JSX, gerenciamento de rotas com React Router, entre outras coisas.",
         "close": "Fechar",
         "open": "Abrir projeto"
+      },
+      "tranquilidad": {
+        "title": "Cabanas La Tranquilidad (WordPress)",
+        "description": "Projeto web de acomodação turística onde implementei o uso do Local WP, plugins, editor de temas, editor de páginas (Gutenberg) e design responsivo. Também adicionei algumas funcionalidades com meu próprio JS ao functions.php, como personalizar mensagens do WhatsApp dependendo do botão pressionado, e configurei o servidor SMTP para garantir que os e-mails sejam enviados do formulário de contato. Depois enviei para um servidor gratuito onde tive que fazer várias configurações. como obter um certificado SSL, entre outros.",
+        "close": "Fechar",
+        "open": "Abrir projeto"
       }
     }
   },
