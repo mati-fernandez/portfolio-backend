@@ -114,7 +114,7 @@
       },
       "tranquilidad": {
         "title": "La Tranquilidad Cabins (WordPress)",
-        "description": "A tourist accommodation website project where I implemented the use of Local WP, plugins, a theme editor, a page editor (Gutenberg), and responsive design. I also added some functionality to functions.php using my own JS, such as customizing WhatsApp messages based on which button is pressed, and I configured the SMTP server to secure email delivery from the contact form. I then uploaded it to a free server, where I had to perform several configurations, such as obtaining an SSL certificate, among others.",
+        "description": "A tourist accommodation website project built in Local WP, using plugins, theme editors, and pages (Gutenberg), with a responsive design. I added functions with JS to functions.php (such as custom WhatsApp messages) and configured SMTP for the form. I uploaded it to a free server and made several configurations, including SSL.",
         "close": "Close",
         "open": "Open project"
       }
