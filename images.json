@@ -63,6 +63,10 @@
     "portugues": {
       "src": "portugues.png",
       "progress": "17%"
+    },
+    "wordpress": {
+      "src": "wp.png",
+      "progress": "33%"
     }
   },
   "projects": {
