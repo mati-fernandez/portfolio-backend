@@ -67,6 +67,10 @@
     "wordpress": {
       "src": "wp.png",
       "progress": "33%"
+    },
+    "tailwind": {
+      "src": "tailwind.png",
+      "progress": "70%"
     }
   },
   "projects": {
