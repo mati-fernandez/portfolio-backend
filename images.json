@@ -104,7 +104,8 @@
     },
     "tranquilidad": {
       "src": "tranquilidad.png",
-      "link": "https://tranquilidadcabanas.wuaze.com/"
+      "link": "https://tranquilidadcabanas.wuaze.com/",
+      "class": "secondary"
     }
   },
   "odyssey": {
