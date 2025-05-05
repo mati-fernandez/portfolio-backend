@@ -67,6 +67,10 @@
     }
   },
   "projects": {
+    "buttons": {
+      "viewMore": "Show secondary projects...",
+      "viewLess": "Hide secondary projects..."
+    },
     "info": {
       "title": "Projects section",
       "text": "In this section, I showcase works of my own authorship, whether they are challenges assigned to me in a course or ideas I came up with on my own.",

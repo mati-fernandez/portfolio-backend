@@ -67,6 +67,10 @@
     }
   },
   "projects": {
+    "buttons": {
+      "viewMore": "Mostrar Projetos secundários...",
+      "viewLess": "Ocultar Projetos secundários..."
+    },
     "info": {
       "title": "Seção de Projetos",
       "text": "Nesta seção, apresento trabalhos de minha autoria, sejam desafios que me pediram em um curso ou ideias que tive por conta própria.",
