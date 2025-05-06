@@ -119,6 +119,12 @@
         "close": "Fechar",
         "open": "Abrir projeto"
       },
+      "tailwindMigration": {
+        "title": "Migrando para Tailwind CSS",
+        "description": "Transformei todo o aplicativo substituindo estilos tradicionais por classes CSS do Tailwind, visando melhor manutenção e legibilidade do código. Removi arquivos desnecessários, aproveitei o Tailwind v4 para evitar tailwind.config.js e adicionei animações com Motion, integradas de forma simples e declarativa aos componentes.",
+        "close": "Fechar",
+        "open": "Abrir projeto"
+      },
       "tranquilidad": {
         "title": "Cabanas La Tranquilidad (WordPress)",
         "description": "Projeto de site de hospedagem turística construído em Local WP, utilizando plugins, temas e editores de páginas (Gutenberg), com design responsivo. Adicionei funções com JS no functions.php (como mensagens personalizadas do WhatsApp) e configurei o SMTP para o formulário. Fiz upload para um servidor gratuito e fiz várias configurações, incluindo SSL.",

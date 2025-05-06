@@ -102,6 +102,10 @@
       "src": "portfolio-react.png",
       "link": "https://mati-fernandez.github.io/portfolio-react/"
     },
+    "tailwindMigration": {
+      "src": "tailwind-migration.png",
+      "link": "https://github.com/mati-fernandez/portfolio-react/blob/master/tailwind-migration.md"
+    },
     "tranquilidad": {
       "src": "tranquilidad.png",
       "link": "https://tranquilidadcabanas.wuaze.com/",
