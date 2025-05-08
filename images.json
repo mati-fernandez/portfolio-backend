@@ -1,215 +1,215 @@
 {
   "skills": {
     "html5": {
-      "src": "html-5.png",
+      "src": "images/html-5.png",
       "progress": "69%"
     },
     "css3": {
-      "src": "css-3.png",
+      "src": "images/css-3.png",
       "progress": "72%"
     },
     "sass": {
-      "src": "sass.png",
+      "src": "images/sass.png",
       "progress": "35%"
     },
     "js": {
-      "src": "js.png",
+      "src": "images/js.webp",
       "progress": "75%"
     },
     "ts": {
-      "src": "ts.png",
+      "src": "images/ts.webp",
       "progress": "30%"
     },
     "git": {
-      "src": "git.png",
+      "src": "images/git.png",
       "progress": "38%"
     },
     "react": {
-      "src": "react.png",
+      "src": "images/react.png",
       "progress": "67%"
     },
     "next": {
-      "src": "nextjs.png",
+      "src": "images/nextjs.png",
       "progress": "20%"
     },
     "prisma": {
-      "src": "prisma.png",
+      "src": "images/prisma.png",
       "progress": "11%"
     },
     "redux": {
-      "src": "redux.png",
+      "src": "images/redux.png",
       "progress": "22%"
     },
     "router": {
-      "src": "react-router.png",
+      "src": "images/react-router.png",
       "progress": "37%"
     },
     "figma": {
-      "src": "figma.png",
+      "src": "images/figma.webp",
       "progress": "58%"
     },
     "english": {
-      "src": "english.png",
+      "src": "images/english.png",
       "progress": "75%"
     },
     "sql": {
-      "src": "sql.png",
+      "src": "images/sql.png",
       "progress": "15%"
     },
     "linux": {
-      "src": "linux.png",
+      "src": "images/linux.webp",
       "progress": "12%"
     },
     "portugues": {
-      "src": "portugues.png",
+      "src": "images/portugues.png",
       "progress": "17%"
     },
     "wordpress": {
-      "src": "wp.png",
+      "src": "images/wp.png",
       "progress": "33%"
     },
     "tailwind": {
-      "src": "tailwind.png",
+      "src": "images/tailwind.webp",
       "progress": "70%"
     }
   },
   "projects": {
     "rqm": {
-      "src": "random-quote-machine.png",
+      "src": "images/random-quote-machine.webp",
       "link": "https://mati-fernandez.github.io/random-quote-machine/"
     },
     "mdp": {
-      "src": "markdown-previewer.png",
+      "src": "images/markdown-previewer.png",
       "link": "https://mati-fernandez.github.io/markdown-previewer/"
     },
     "drum": {
-      "src": "drum-machine.png",
+      "src": "images/drum-machine.webp",
       "link": "https://mati-fernandez.github.io/drum-machine/"
     },
     "calculator": {
-      "src": "js-calculator.png",
+      "src": "images/js-calculator.webp",
       "link": "https://mati-fernandez.github.io/js-calculator/"
     },
     "pomodoro": {
-      "src": "pomodoro-clock.png",
+      "src": "images/pomodoro-clock.webp",
       "link": "https://mati-fernandez.github.io/pomodoro-clock/"
     },
     "portfolioJS": {
-      "src": "portfolio-js.png",
+      "src": "images/portfolio-js.webp",
       "link": "https://mati-fernandez.github.io/portfolio-vanilla-js"
     },
     "portfolioReact": {
-      "src": "portfolio-react.png",
+      "src": "images/portfolio-react.webp",
       "link": "https://mati-fernandez.github.io/portfolio-react/"
     },
     "tailwindMigration": {
-      "src": "tailwind-migration.png",
+      "src": "images/tailwind-migration.png",
       "link": "https://github.com/mati-fernandez/portfolio-react/blob/master/tailwind-migration.md"
     },
     "tranquilidad": {
-      "src": "tranquilidad.png",
+      "src": "images/tranquilidad.png",
       "link": "https://tranquilidadcabanas.wuaze.com/",
       "class": "secondary"
     }
   },
   "odyssey": {
     "dom": {
-      "src": "dom-ejercicios.png",
+      "src": "images/dom-ejercicios.webp",
       "link": "https://mati-fernandez.github.io/portfolio-vanilla-js/dom-ejercicios/index.html"
     },
 
     "tetris": {
-      "src": "tetris-vanilla.png",
+      "src": "images/tetris-vanilla.png",
       "link": "https://mati-fernandez.github.io/portfolio-vanilla-js/mis-proyectos/tetris-vanilla/index.html"
     },
     "monkeytype": {
-      "src": "monkeytype.png",
+      "src": "images/monkeytype.png",
       "link": "https://mati-fernandez.github.io/portfolio-vanilla-js/mis-proyectos/monkeytype/index.html"
     },
     "excel": {
-      "src": "excel.png",
+      "src": "images/excel.png",
       "link": "https://mati-fernandez.github.io/portfolio-vanilla-js/mis-proyectos/excel/index.html"
     },
     "ecommerce": {
-      "src": "ecommerce.png",
+      "src": "images/ecommerce.webp",
       "link": "https://ecommerce-mati.vercel.app/"
     },
     "draw": {
-      "src": "dibujo-canvas.png",
+      "src": "images/dibujo-canvas.png",
       "link": "https://mati-fernandez.github.io/portfolio-vanilla-js/mis-proyectos/dibujo-canvas/index.html",
       "class": "secondary"
     },
     "nextjsBlog": {
-      "src": "nextjs-blog.png",
+      "src": "images/nextjs-blog.png",
       "link": "https://mati-nextjs-blog.vercel.app/",
       "class": "secondary"
     },
     "tasksList": {
-      "src": "tasks-list.png",
+      "src": "images/tasks-list.webp",
       "link": "https://mati-fernandez.github.io/repaso-ts/",
       "class": "secondary"
     }
   },
   "certifications": {
     "rwd": {
-      "src": "cert-resp.png",
+      "src": "images/cert-resp.png",
       "link": "https://www.freecodecamp.org/certification/matifer/responsive-web-design"
     },
     "javaScript": {
-      "src": "cert-js.png",
+      "src": "images/cert-js.png",
       "link": "https://www.freecodecamp.org/certification/matifer/javascript-algorithms-and-data-structures"
     },
     "fdl": {
-      "src": "cert-front.png",
+      "src": "images/cert-front.png",
       "link": "https://www.freecodecamp.org/certification/matifer/front-end-development-libraries"
     },
     "tse": {
-      "src": "cert-tse.png",
+      "src": "images/cert-tse.png",
       "link": "https://www.linkedin.com/learning/certificates/333ba067df4fd0a742309afca84d0c1079e2ce0a30aa775cc9136cef6f192c18?trk=share_certificate",
       "class": "secondary"
     },
     "ics": {
-      "src": "cert-ics.png",
+      "src": "images/cert-ics.webp",
       "link": "https://www.credly.com/badges/86f90a98-4290-4eb1-8c12-909598a92c6d",
       "class": "secondary"
     },
     "html": {
-      "src": "cert-html.jpeg",
+      "src": "images/cert-html.jpeg",
       "link": "https://www.educacionit.com/perfil/matias-fernandez-93622/certificado/9621",
       "class": "secondary"
     },
     "html5css3": {
-      "src": "cert-html5-css3.jpeg",
+      "src": "images/cert-html5-css3.jpeg",
       "link": "https://www.educacionit.com/perfil/matias-fernandez-93622/certificado/13704",
       "class": "secondary"
     },
     "bbddsql": {
-      "src": "cert-bbdd.jpeg",
+      "src": "images/cert-bbdd.jpeg",
       "link": "https://www.educacionit.com/perfil/matias-fernandez-93622/certificado/9672",
       "class": "secondary"
     },
     "flash": {
-      "src": "cert-flash.jpeg",
+      "src": "images/cert-flash.jpeg",
       "link": "https://www.educacionit.com/perfil/matias-fernandez-93622/certificado/9628",
       "class": "secondary"
     },
     "presu": {
-      "src": "cert-presu.jpeg",
+      "src": "images/cert-presu.jpeg",
       "link": "https://www.educacionit.com/perfil/matias-fernandez-93622/certificado/12631",
       "class": "secondary"
     },
     "photoshop": {
-      "src": "cert-photo.jpeg",
+      "src": "images/cert-photo.jpeg",
       "link": "https://www.educacionit.com/perfil/matias-fernandez-93622/certificado/9614",
       "class": "secondary"
     },
     "cssdivs": {
-      "src": "cert-css-divs.jpeg",
+      "src": "images/cert-css-divs.jpeg",
       "link": "https://www.educacionit.com/perfil/matias-fernandez-93622/certificado/13571",
       "class": "secondary"
     },
     "jquery": {
-      "src": "cert-jquery.jpeg",
+      "src": "images/cert-jquery.jpeg",
       "link": "https://www.educacionit.com/perfil/matias-fernandez-93622/certificado/13273",
       "class": "secondary"
     }
