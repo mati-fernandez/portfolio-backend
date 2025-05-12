@@ -11,7 +11,6 @@ cloudinary.config({
 
 const IMAGES_DIR = './images';
 const JSON_FILES = ['./images.json', './en.json', './es.json', './pt.json'];
-const BACKUP_DIR = './backups';
 
 const uploadedUrls = {};
 
@@ -31,44 +30,19 @@ const uploadImage = async (filePath) => {
   }
 };
 
-const backupJsonFiles = () => {
-  if (!fs.existsSync(BACKUP_DIR)) fs.mkdirSync(BACKUP_DIR);
-  const now = new Date();
-  const timestamp = now
-    .toLocaleString('sv')
-    .replace(' ', '_')
-    .replace(/:/g, '-');
-  JSON_FILES.forEach((file) => {
-    const backupFile = path.join(
-      BACKUP_DIR,
-      `${path.basename(file)}.${timestamp}.bak`
-    );
-    fs.copyFileSync(file, backupFile);
-    console.log(`Backup created: ${backupFile}`);
-  });
-};
-
-const updateJsonFiles = () => {
-  JSON_FILES.forEach((file) => {
-    try {
-      let content = fs.readFileSync(file, 'utf8');
-      Object.entries(uploadedUrls).forEach(([name, url]) => {
-        const regex = new RegExp(`"src":\\s*"([^"]*images/${name}[^"]*)"`, 'g');
-        content = content.replace(regex, `"src": "${url}"`);
-      });
-      if (file.endsWith('.json')) {
-        const timestamp = new Date().toISOString();
-        const updatedFile = file.replace('.json', `-${timestamp}.json`);
-        fs.writeFileSync(updatedFile, content);
-        console.log(`Updated ${updatedFile}`);
-      } else {
-        fs.writeFileSync(file, content);
-        console.log(`Updated ${file}`);
-      }
-    } catch (error) {
-      console.error(`Error updating ${file}:`, error.message);
-    }
-  });
+const updateJsonFile = () => {
+  const file = JSON_FILES[0];
+  try {
+    let content = fs.readFileSync(file, 'utf8');
+    Object.entries(uploadedUrls).forEach(([name, url]) => {
+      const regex = new RegExp(`"src":\\s*"([^"]*images/${name}[^"]*)"`, 'g');
+      content = content.replace(regex, `"src": "${url}"`);
+    });
+    fs.writeFileSync(file, content);
+    console.log(`Updated ${file}`);
+  } catch (error) {
+    console.error(`Error updating ${file}:`, error.message);
+  }
 };
 
 const uploadJson = async (filePath) => {
@@ -92,8 +66,7 @@ const uploadJson = async (filePath) => {
     await uploadImage(path.join(IMAGES_DIR, file));
   }
 
-  backupJsonFiles();
-  updateJsonFiles();
+  updateJsonFile();
 
   for (const jsonFile of JSON_FILES) {
     await uploadJson(jsonFile);

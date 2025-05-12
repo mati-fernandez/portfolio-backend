@@ -4,8 +4,6 @@ This repository serves as a central content source (texts and images) for my por
 
 ### 📝 Notes
 
-- Images should be square-ish (1:1 aspect ratio or close to it)
-- `.card.secondary` items should be grouped at the end of the JSON
 - All content is uploaded to Cloudinary and consumed from there to ensure updates are instantly reflected across all projects
 
 ## How the Image and JSON Upload Script Works

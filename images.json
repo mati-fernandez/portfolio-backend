@@ -49,7 +49,7 @@
       "progress": "58%"
     },
     "english": {
-      "src": "https://res.cloudinary.com/dxfgoor17/image/upload/v1746859753/images/english.png",
+      "src": "https://res.cloudinary.com/dxfgoor17/image/upload/v1747091251/images/english.png",
       "progress": "75%"
     },
     "sql": {
@@ -76,15 +76,18 @@
   "projects": {
     "rqm": {
       "src": "https://res.cloudinary.com/dxfgoor17/image/upload/v1746859766/images/random-quote-machine.webp",
-      "link": "https://mati-fernandez.github.io/random-quote-machine/"
+      "link": "https://mati-fernandez.github.io/random-quote-machine/",
+      "class": "secondary"
     },
     "mdp": {
       "src": "https://res.cloudinary.com/dxfgoor17/image/upload/v1746859759/images/markdown-previewer.png",
-      "link": "https://mati-fernandez.github.io/markdown-previewer/"
+      "link": "https://mati-fernandez.github.io/markdown-previewer/",
+      "class": "secondary"
     },
     "drum": {
       "src": "https://res.cloudinary.com/dxfgoor17/image/upload/v1746859752/images/drum-machine.webp",
-      "link": "https://mati-fernandez.github.io/drum-machine/"
+      "link": "https://mati-fernandez.github.io/drum-machine/",
+      "class": "secondary"
     },
     "calculator": {
       "src": "https://res.cloudinary.com/dxfgoor17/image/upload/v1746859757/images/js-calculator.webp",
