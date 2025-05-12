@@ -1,0 +1,217 @@
+{
+  "skills": {
+    "html5": {
+      "src": "https://res.cloudinary.com/dxfgoor17/image/upload/v1746859756/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859756/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859756/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859756/images/html-5.png",
+      "progress": "69%"
+    },
+    "css3": {
+      "src": "https://res.cloudinary.com/dxfgoor17/image/upload/v1746859749/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859749/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859749/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859749/images/css-3.png",
+      "progress": "72%"
+    },
+    "sass": {
+      "src": "https://res.cloudinary.com/dxfgoor17/image/upload/v1746859769/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859769/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859769/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859769/images/sass.png",
+      "progress": "35%"
+    },
+    "js": {
+      "src": "https://res.cloudinary.com/dxfgoor17/image/upload/v1746859758/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859758/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859758/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859758/images/js.webp",
+      "progress": "75%"
+    },
+    "ts": {
+      "src": "https://res.cloudinary.com/dxfgoor17/image/upload/v1746859774/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859774/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859774/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859774/images/ts.webp",
+      "progress": "30%"
+    },
+    "git": {
+      "src": "https://res.cloudinary.com/dxfgoor17/image/upload/v1746859756/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859756/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859756/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859756/images/git.png",
+      "progress": "38%"
+    },
+    "react": {
+      "src": "https://res.cloudinary.com/dxfgoor17/image/upload/v1746859767/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859767/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859767/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859767/images/react.png",
+      "progress": "67%"
+    },
+    "next": {
+      "src": "https://res.cloudinary.com/dxfgoor17/image/upload/v1746859762/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859762/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859762/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859762/images/nextjs.png",
+      "progress": "20%"
+    },
+    "prisma": {
+      "src": "https://res.cloudinary.com/dxfgoor17/image/upload/v1746859765/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859765/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859765/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859765/images/prisma.png",
+      "progress": "11%"
+    },
+    "redux": {
+      "src": "https://res.cloudinary.com/dxfgoor17/image/upload/v1746859768/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859768/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859768/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859768/images/redux.png",
+      "progress": "22%"
+    },
+    "router": {
+      "src": "https://res.cloudinary.com/dxfgoor17/image/upload/v1746859767/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859767/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859767/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859767/images/react-router.png",
+      "progress": "37%"
+    },
+    "figma": {
+      "src": "https://res.cloudinary.com/dxfgoor17/image/upload/v1746859755/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859755/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859755/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859755/images/figma.webp",
+      "progress": "58%"
+    },
+    "english": {
+      "src": "https://res.cloudinary.com/dxfgoor17/image/upload/v1746859753/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859753/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859753/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859753/images/english.png",
+      "progress": "75%"
+    },
+    "sql": {
+      "src": "https://res.cloudinary.com/dxfgoor17/image/upload/v1746859770/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859770/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859770/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859770/images/sql.png",
+      "progress": "15%"
+    },
+    "linux": {
+      "src": "https://res.cloudinary.com/dxfgoor17/image/upload/v1746859759/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859759/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859759/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859759/images/linux.webp",
+      "progress": "12%"
+    },
+    "portugues": {
+      "src": "https://res.cloudinary.com/dxfgoor17/image/upload/v1746859764/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859764/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859764/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859764/images/portugues.png",
+      "progress": "17%"
+    },
+    "wordpress": {
+      "src": "https://res.cloudinary.com/dxfgoor17/image/upload/v1746859775/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859775/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859775/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859775/images/wp.png",
+      "progress": "33%"
+    },
+    "tailwind": {
+      "src": "https://res.cloudinary.com/dxfgoor17/image/upload/v1746859771/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859771/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859771/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859771/images/tailwind.webp",
+      "progress": "70%"
+    }
+  },
+  "projects": {
+    "rqm": {
+      "src": "https://res.cloudinary.com/dxfgoor17/image/upload/v1746859766/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859766/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859766/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859766/images/random-quote-machine.webp",
+      "link": "https://mati-fernandez.github.io/random-quote-machine/"
+    },
+    "mdp": {
+      "src": "https://res.cloudinary.com/dxfgoor17/image/upload/v1746859759/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859759/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859759/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859759/images/markdown-previewer.png",
+      "link": "https://mati-fernandez.github.io/markdown-previewer/"
+    },
+    "drum": {
+      "src": "https://res.cloudinary.com/dxfgoor17/image/upload/v1746859752/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859752/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859752/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859752/images/drum-machine.webp",
+      "link": "https://mati-fernandez.github.io/drum-machine/"
+    },
+    "calculator": {
+      "src": "https://res.cloudinary.com/dxfgoor17/image/upload/v1746859757/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859757/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859757/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859757/images/js-calculator.webp",
+      "link": "https://mati-fernandez.github.io/js-calculator/"
+    },
+    "pomodoro": {
+      "src": "https://res.cloudinary.com/dxfgoor17/image/upload/v1746859762/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859762/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859762/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859762/images/pomodoro-clock.webp",
+      "link": "https://mati-fernandez.github.io/pomodoro-clock/"
+    },
+    "portfolioJS": {
+      "src": "https://res.cloudinary.com/dxfgoor17/image/upload/v1746859763/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859763/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859763/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859763/images/portfolio-js.webp",
+      "link": "https://mati-fernandez.github.io/portfolio-vanilla-js"
+    },
+    "portfolioReact": {
+      "src": "https://res.cloudinary.com/dxfgoor17/image/upload/v1746859764/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859764/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859764/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859764/images/portfolio-react.webp",
+      "link": "https://mati-fernandez.github.io/portfolio-react/"
+    },
+    "tailwindMigration": {
+      "src": "https://res.cloudinary.com/dxfgoor17/image/upload/v1746859770/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859770/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859770/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859770/images/tailwind-migration.png",
+      "link": "https://github.com/mati-fernandez/portfolio-react/blob/master/tailwind-migration.md"
+    },
+    "tranquilidad": {
+      "src": "https://res.cloudinary.com/dxfgoor17/image/upload/v1746859773/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859773/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859773/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859773/images/tranquilidad.png",
+      "link": "https://tranquilidadcabanas.wuaze.com/",
+      "class": "secondary"
+    }
+  },
+  "odyssey": {
+    "dom": {
+      "src": "https://res.cloudinary.com/dxfgoor17/image/upload/v1746859751/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859751/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859751/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859751/images/dom-ejercicios.webp",
+      "link": "https://mati-fernandez.github.io/portfolio-vanilla-js/dom-ejercicios/index.html"
+    },
+
+    "tetris": {
+      "src": "https://res.cloudinary.com/dxfgoor17/image/upload/v1746859773/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859773/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859773/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859773/images/tetris-vanilla.png",
+      "link": "https://mati-fernandez.github.io/portfolio-vanilla-js/mis-proyectos/tetris-vanilla/index.html"
+    },
+    "monkeytype": {
+      "src": "https://res.cloudinary.com/dxfgoor17/image/upload/v1746859760/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859760/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859760/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859760/images/monkeytype.png",
+      "link": "https://mati-fernandez.github.io/portfolio-vanilla-js/mis-proyectos/monkeytype/index.html"
+    },
+    "excel": {
+      "src": "https://res.cloudinary.com/dxfgoor17/image/upload/v1746859754/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859754/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859754/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859754/images/excel.png",
+      "link": "https://mati-fernandez.github.io/portfolio-vanilla-js/mis-proyectos/excel/index.html"
+    },
+    "ecommerce": {
+      "src": "https://res.cloudinary.com/dxfgoor17/image/upload/v1746859753/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859753/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859753/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859753/images/ecommerce.webp",
+      "link": "https://ecommerce-mati.vercel.app/"
+    },
+    "draw": {
+      "src": "https://res.cloudinary.com/dxfgoor17/image/upload/v1746859750/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859750/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859750/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859750/images/dibujo-canvas.png",
+      "link": "https://mati-fernandez.github.io/portfolio-vanilla-js/mis-proyectos/dibujo-canvas/index.html",
+      "class": "secondary"
+    },
+    "nextjsBlog": {
+      "src": "https://res.cloudinary.com/dxfgoor17/image/upload/v1746859761/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859761/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859761/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859761/images/nextjs-blog.png",
+      "link": "https://mati-nextjs-blog.vercel.app/",
+      "class": "secondary"
+    },
+    "tasksList": {
+      "src": "https://res.cloudinary.com/dxfgoor17/image/upload/v1746859772/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859772/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859772/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859772/images/tasks-list.webp",
+      "link": "https://mati-fernandez.github.io/repaso-ts/",
+      "class": "secondary"
+    }
+  },
+  "certifications": {
+    "rwd": {
+      "src": "https://res.cloudinary.com/dxfgoor17/image/upload/v1746859748/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859748/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859748/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859748/images/cert-resp.png",
+      "link": "https://www.freecodecamp.org/certification/matifer/responsive-web-design"
+    },
+    "javaScript": {
+      "src": "https://res.cloudinary.com/dxfgoor17/image/upload/v1746859745/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859745/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859745/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859745/images/cert-js.png",
+      "link": "https://www.freecodecamp.org/certification/matifer/javascript-algorithms-and-data-structures"
+    },
+    "fdl": {
+      "src": "https://res.cloudinary.com/dxfgoor17/image/upload/v1746859741/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859741/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859741/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859741/images/cert-front.png",
+      "link": "https://www.freecodecamp.org/certification/matifer/front-end-development-libraries"
+    },
+    "tse": {
+      "src": "https://res.cloudinary.com/dxfgoor17/image/upload/v1746859748/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859748/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859748/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859748/images/cert-tse.png",
+      "link": "https://www.linkedin.com/learning/certificates/333ba067df4fd0a742309afca84d0c1079e2ce0a30aa775cc9136cef6f192c18?trk=share_certificate",
+      "class": "secondary"
+    },
+    "ics": {
+      "src": "https://res.cloudinary.com/dxfgoor17/image/upload/v1746859744/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859744/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859744/https://res.cloudinary.com/dxfgoor17/image/upload/v1746859744/images/cert-ics.webp",
+      "link": "https://www.credly.com/badges/86f90a98-4290-4eb1-8c12-909598a92c6d",
+      "class": "secondary"
+    },
+    "html": {
+      "src": "https://res.cloudinary.com/dxfgoor17/image/upload/v1746859742/images/cert-html.jpg",
+      "link": "https://www.educacionit.com/perfil/matias-fernandez-93622/certificado/9621",
+      "class": "secondary"
+    },
+    "html5css3": {
+      "src": "https://res.cloudinary.com/dxfgoor17/image/upload/v1746859743/images/cert-html5-css3.jpg",
+      "link": "https://www.educacionit.com/perfil/matias-fernandez-93622/certificado/13704",
+      "class": "secondary"
+    },
+    "bbddsql": {
+      "src": "https://res.cloudinary.com/dxfgoor17/image/upload/v1746859739/images/cert-bbdd.jpg",
+      "link": "https://www.educacionit.com/perfil/matias-fernandez-93622/certificado/9672",
+      "class": "secondary"
+    },
+    "flash": {
+      "src": "https://res.cloudinary.com/dxfgoor17/image/upload/v1746859741/images/cert-flash.jpg",
+      "link": "https://www.educacionit.com/perfil/matias-fernandez-93622/certificado/9628",
+      "class": "secondary"
+    },
+    "presu": {
+      "src": "https://res.cloudinary.com/dxfgoor17/image/upload/v1746859747/images/cert-presu.jpg",
+      "link": "https://www.educacionit.com/perfil/matias-fernandez-93622/certificado/12631",
+      "class": "secondary"
+    },
+    "photoshop": {
+      "src": "https://res.cloudinary.com/dxfgoor17/image/upload/v1746859746/images/cert-photo.jpg",
+      "link": "https://www.educacionit.com/perfil/matias-fernandez-93622/certificado/9614",
+      "class": "secondary"
+    },
+    "cssdivs": {
+      "src": "https://res.cloudinary.com/dxfgoor17/image/upload/v1746859740/images/cert-css-divs.jpg",
+      "link": "https://www.educacionit.com/perfil/matias-fernandez-93622/certificado/13571",
+      "class": "secondary"
+    },
+    "jquery": {
+      "src": "https://res.cloudinary.com/dxfgoor17/image/upload/v1746859744/images/cert-jquery.jpg",
+      "link": "https://www.educacionit.com/perfil/matias-fernandez-93622/certificado/13273",
+      "class": "secondary"
+    }
+  }
+}

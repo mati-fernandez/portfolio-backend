@@ -1,0 +1,26 @@
+{
+  "name": "portfolio-backend",
+  "version": "1.0.0",
+  "description": "En este repositorio se suben los textos e imágenes que serán consumidos por los portfolios realizados en diferentes tecnologías a medida que fui avanzando. De esta forma me ahorro de actualizar en cada uno el contenido.",
+  "main": "cloudinaryUploader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "upload": "node cloudinaryUploader.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mati-fernandez/portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/mati-fernandez/portfolio/issues"
+  },
+  "homepage": "https://github.com/mati-fernandez/portfolio#readme",
+  "dependencies": {
+    "cloudinary": "^2.6.1",
+    "dotenv": "^16.5.0"
+  }
+}

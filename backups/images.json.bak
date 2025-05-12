@@ -1,0 +1,217 @@
+{
+  "skills": {
+    "html5": {
+      "src": "images/html-5.png",
+      "progress": "69%"
+    },
+    "css3": {
+      "src": "images/css-3.png",
+      "progress": "72%"
+    },
+    "sass": {
+      "src": "images/sass.png",
+      "progress": "35%"
+    },
+    "js": {
+      "src": "images/js.webp",
+      "progress": "75%"
+    },
+    "ts": {
+      "src": "images/ts.webp",
+      "progress": "30%"
+    },
+    "git": {
+      "src": "images/git.png",
+      "progress": "38%"
+    },
+    "react": {
+      "src": "images/react.png",
+      "progress": "67%"
+    },
+    "next": {
+      "src": "images/nextjs.png",
+      "progress": "20%"
+    },
+    "prisma": {
+      "src": "images/prisma.png",
+      "progress": "11%"
+    },
+    "redux": {
+      "src": "images/redux.png",
+      "progress": "22%"
+    },
+    "router": {
+      "src": "images/react-router.png",
+      "progress": "37%"
+    },
+    "figma": {
+      "src": "images/figma.webp",
+      "progress": "58%"
+    },
+    "english": {
+      "src": "images/english.png",
+      "progress": "75%"
+    },
+    "sql": {
+      "src": "images/sql.png",
+      "progress": "15%"
+    },
+    "linux": {
+      "src": "images/linux.webp",
+      "progress": "12%"
+    },
+    "portugues": {
+      "src": "images/portugues.png",
+      "progress": "17%"
+    },
+    "wordpress": {
+      "src": "images/wp.png",
+      "progress": "33%"
+    },
+    "tailwind": {
+      "src": "images/tailwind.webp",
+      "progress": "70%"
+    }
+  },
+  "projects": {
+    "rqm": {
+      "src": "images/random-quote-machine.webp",
+      "link": "https://mati-fernandez.github.io/random-quote-machine/"
+    },
+    "mdp": {
+      "src": "images/markdown-previewer.png",
+      "link": "https://mati-fernandez.github.io/markdown-previewer/"
+    },
+    "drum": {
+      "src": "images/drum-machine.webp",
+      "link": "https://mati-fernandez.github.io/drum-machine/"
+    },
+    "calculator": {
+      "src": "images/js-calculator.webp",
+      "link": "https://mati-fernandez.github.io/js-calculator/"
+    },
+    "pomodoro": {
+      "src": "images/pomodoro-clock.webp",
+      "link": "https://mati-fernandez.github.io/pomodoro-clock/"
+    },
+    "portfolioJS": {
+      "src": "images/portfolio-js.webp",
+      "link": "https://mati-fernandez.github.io/portfolio-vanilla-js"
+    },
+    "portfolioReact": {
+      "src": "images/portfolio-react.webp",
+      "link": "https://mati-fernandez.github.io/portfolio-react/"
+    },
+    "tailwindMigration": {
+      "src": "images/tailwind-migration.png",
+      "link": "https://github.com/mati-fernandez/portfolio-react/blob/master/tailwind-migration.md"
+    },
+    "tranquilidad": {
+      "src": "images/tranquilidad.png",
+      "link": "https://tranquilidadcabanas.wuaze.com/",
+      "class": "secondary"
+    }
+  },
+  "odyssey": {
+    "dom": {
+      "src": "images/dom-ejercicios.webp",
+      "link": "https://mati-fernandez.github.io/portfolio-vanilla-js/dom-ejercicios/index.html"
+    },
+
+    "tetris": {
+      "src": "images/tetris-vanilla.png",
+      "link": "https://mati-fernandez.github.io/portfolio-vanilla-js/mis-proyectos/tetris-vanilla/index.html"
+    },
+    "monkeytype": {
+      "src": "images/monkeytype.png",
+      "link": "https://mati-fernandez.github.io/portfolio-vanilla-js/mis-proyectos/monkeytype/index.html"
+    },
+    "excel": {
+      "src": "images/excel.png",
+      "link": "https://mati-fernandez.github.io/portfolio-vanilla-js/mis-proyectos/excel/index.html"
+    },
+    "ecommerce": {
+      "src": "images/ecommerce.webp",
+      "link": "https://ecommerce-mati.vercel.app/"
+    },
+    "draw": {
+      "src": "images/dibujo-canvas.png",
+      "link": "https://mati-fernandez.github.io/portfolio-vanilla-js/mis-proyectos/dibujo-canvas/index.html",
+      "class": "secondary"
+    },
+    "nextjsBlog": {
+      "src": "images/nextjs-blog.png",
+      "link": "https://mati-nextjs-blog.vercel.app/",
+      "class": "secondary"
+    },
+    "tasksList": {
+      "src": "images/tasks-list.webp",
+      "link": "https://mati-fernandez.github.io/repaso-ts/",
+      "class": "secondary"
+    }
+  },
+  "certifications": {
+    "rwd": {
+      "src": "images/cert-resp.png",
+      "link": "https://www.freecodecamp.org/certification/matifer/responsive-web-design"
+    },
+    "javaScript": {
+      "src": "images/cert-js.png",
+      "link": "https://www.freecodecamp.org/certification/matifer/javascript-algorithms-and-data-structures"
+    },
+    "fdl": {
+      "src": "images/cert-front.png",
+      "link": "https://www.freecodecamp.org/certification/matifer/front-end-development-libraries"
+    },
+    "tse": {
+      "src": "images/cert-tse.png",
+      "link": "https://www.linkedin.com/learning/certificates/333ba067df4fd0a742309afca84d0c1079e2ce0a30aa775cc9136cef6f192c18?trk=share_certificate",
+      "class": "secondary"
+    },
+    "ics": {
+      "src": "images/cert-ics.webp",
+      "link": "https://www.credly.com/badges/86f90a98-4290-4eb1-8c12-909598a92c6d",
+      "class": "secondary"
+    },
+    "html": {
+      "src": "images/cert-html.jpeg",
+      "link": "https://www.educacionit.com/perfil/matias-fernandez-93622/certificado/9621",
+      "class": "secondary"
+    },
+    "html5css3": {
+      "src": "images/cert-html5-css3.jpeg",
+      "link": "https://www.educacionit.com/perfil/matias-fernandez-93622/certificado/13704",
+      "class": "secondary"
+    },
+    "bbddsql": {
+      "src": "images/cert-bbdd.jpeg",
+      "link": "https://www.educacionit.com/perfil/matias-fernandez-93622/certificado/9672",
+      "class": "secondary"
+    },
+    "flash": {
+      "src": "images/cert-flash.jpeg",
+      "link": "https://www.educacionit.com/perfil/matias-fernandez-93622/certificado/9628",
+      "class": "secondary"
+    },
+    "presu": {
+      "src": "images/cert-presu.jpeg",
+      "link": "https://www.educacionit.com/perfil/matias-fernandez-93622/certificado/12631",
+      "class": "secondary"
+    },
+    "photoshop": {
+      "src": "images/cert-photo.jpeg",
+      "link": "https://www.educacionit.com/perfil/matias-fernandez-93622/certificado/9614",
+      "class": "secondary"
+    },
+    "cssdivs": {
+      "src": "images/cert-css-divs.jpeg",
+      "link": "https://www.educacionit.com/perfil/matias-fernandez-93622/certificado/13571",
+      "class": "secondary"
+    },
+    "jquery": {
+      "src": "images/cert-jquery.jpeg",
+      "link": "https://www.educacionit.com/perfil/matias-fernandez-93622/certificado/13273",
+      "class": "secondary"
+    }
+  }
+}
