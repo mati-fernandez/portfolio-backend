@@ -76,15 +76,18 @@
   "projects": {
     "rqm": {
       "src": "images/random-quote-machine.webp",
-      "link": "https://mati-fernandez.github.io/random-quote-machine/"
+      "link": "https://mati-fernandez.github.io/random-quote-machine/",
+      "class": "secondary"
     },
     "mdp": {
       "src": "images/markdown-previewer.png",
-      "link": "https://mati-fernandez.github.io/markdown-previewer/"
+      "link": "https://mati-fernandez.github.io/markdown-previewer/",
+      "class": "secondary"
     },
     "drum": {
       "src": "images/drum-machine.webp",
-      "link": "https://mati-fernandez.github.io/drum-machine/"
+      "link": "https://mati-fernandez.github.io/drum-machine/",
+      "class": "secondary"
     },
     "calculator": {
       "src": "images/js-calculator.webp",
@@ -117,10 +120,10 @@
       "src": "images/dom-ejercicios.webp",
       "link": "https://mati-fernandez.github.io/portfolio-vanilla-js/dom-ejercicios/index.html"
     },
-
-    "tetris": {
-      "src": "images/tetris-vanilla.png",
-      "link": "https://mati-fernandez.github.io/portfolio-vanilla-js/mis-proyectos/tetris-vanilla/index.html"
+    "draw": {
+      "src": "images/dibujo-canvas.png",
+      "link": "https://mati-fernandez.github.io/portfolio-vanilla-js/mis-proyectos/dibujo-canvas/index.html",
+      "class": "secondary"
     },
     "monkeytype": {
       "src": "images/monkeytype.png",
@@ -130,14 +133,9 @@
       "src": "images/excel.png",
       "link": "https://mati-fernandez.github.io/portfolio-vanilla-js/mis-proyectos/excel/index.html"
     },
-    "ecommerce": {
-      "src": "images/ecommerce.webp",
-      "link": "https://ecommerce-mati.vercel.app/"
-    },
-    "draw": {
-      "src": "images/dibujo-canvas.png",
-      "link": "https://mati-fernandez.github.io/portfolio-vanilla-js/mis-proyectos/dibujo-canvas/index.html",
-      "class": "secondary"
+    "tetris": {
+      "src": "images/tetris-vanilla.png",
+      "link": "https://mati-fernandez.github.io/portfolio-vanilla-js/mis-proyectos/tetris-vanilla/index.html"
     },
     "nextjsBlog": {
       "src": "images/nextjs-blog.png",
@@ -148,6 +146,10 @@
       "src": "images/tasks-list.webp",
       "link": "https://mati-fernandez.github.io/repaso-ts/",
       "class": "secondary"
+    },
+    "ecommerce": {
+      "src": "images/ecommerce.webp",
+      "link": "https://ecommerce-mati.vercel.app/"
     }
   },
   "certifications": {
