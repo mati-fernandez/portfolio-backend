@@ -120,10 +120,10 @@
       "src": "images/dom-ejercicios.webp",
       "link": "https://mati-fernandez.github.io/portfolio-vanilla-js/dom-ejercicios/index.html"
     },
-    "draw": {
-      "src": "images/dibujo-canvas.png",
-      "link": "https://mati-fernandez.github.io/portfolio-vanilla-js/mis-proyectos/dibujo-canvas/index.html",
-      "class": "secondary"
+
+    "tetris": {
+      "src": "images/tetris-vanilla.png",
+      "link": "https://mati-fernandez.github.io/portfolio-vanilla-js/mis-proyectos/tetris-vanilla/index.html"
     },
     "monkeytype": {
       "src": "images/monkeytype.png",
@@ -133,9 +133,14 @@
       "src": "images/excel.png",
       "link": "https://mati-fernandez.github.io/portfolio-vanilla-js/mis-proyectos/excel/index.html"
     },
-    "tetris": {
-      "src": "images/tetris-vanilla.png",
-      "link": "https://mati-fernandez.github.io/portfolio-vanilla-js/mis-proyectos/tetris-vanilla/index.html"
+    "ecommerce": {
+      "src": "images/ecommerce.webp",
+      "link": "https://ecommerce-mati.vercel.app/"
+    },
+    "draw": {
+      "src": "images/dibujo-canvas.png",
+      "link": "https://mati-fernandez.github.io/portfolio-vanilla-js/mis-proyectos/dibujo-canvas/index.html",
+      "class": "secondary"
     },
     "nextjsBlog": {
       "src": "images/nextjs-blog.png",
@@ -146,10 +151,6 @@
       "src": "images/tasks-list.webp",
       "link": "https://mati-fernandez.github.io/repaso-ts/",
       "class": "secondary"
-    },
-    "ecommerce": {
-      "src": "images/ecommerce.webp",
-      "link": "https://ecommerce-mati.vercel.app/"
     }
   },
   "certifications": {
