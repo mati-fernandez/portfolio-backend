@@ -51,6 +51,8 @@ const uploadJson = async (filePath) => {
     const result = await cloudinary.uploader.upload(filePath, {
       public_id: `jsons/${fileName}`,
       resource_type: 'raw',
+      invalidate: true,
+      overwrite: true,
     });
     console.log(`Uploaded JSON: ${fileName} => ${result.secure_url}`);
   } catch (error) {
