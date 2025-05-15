@@ -103,7 +103,7 @@
     },
     "portfolioReact": {
       "src": "images/portfolio-react.webp",
-      "link": "https://mati-fernandez.github.io/portfolio-react/"
+      "link": "https://matifer.vercel.app/"
     },
     "tailwindMigration": {
       "src": "images/tailwind-migration.png",
