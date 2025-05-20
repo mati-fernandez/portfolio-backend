@@ -166,6 +166,10 @@
       "src": "images/cert-front.png",
       "link": "https://www.freecodecamp.org/certification/matifer/front-end-development-libraries"
     },
+    "auto": {
+      "src": "images/cert-auto.png",
+      "link": "https://github.com/mati-fernandez/portfolio-backend/blob/master/autodidact.md"
+    },
     "tsa": {
       "src": "images/cert-tsa.png",
       "link": "https://www.linkedin.com/learning/certificates/49ef2084de9eda44053e3e7524931495fac52837ffe04623f38d3307b9e084ab?trk=share_certificate",

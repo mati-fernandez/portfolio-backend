@@ -224,6 +224,12 @@
         "close": "Cerrar",
         "open": "Ver Certificación"
       },
+      "auto": {
+        "title": "Certificación no oficial (YouTube & GPT)",
+        "description": "No es una certificación formal, pero representa muchas horas de estudio real autodidacta. Incluye cursos completos y prácticas guiadas a través de canales como Jon Mircha, MiduDev, Soy Dalto, Web Dev Simplified, Fazt, freeCodeCamp, entre otros, y consultas técnicas mediante ChatGPT.",
+        "close": "Cerrar",
+        "open": "Ver Certificación"
+      },
       "tsa": {
         "title": "TypeScript Avanzado",
         "description": "Curso breve orientado a repasar conceptos avanzados de TypeScript: configuración de proyectos, empaquetado, organización en módulos, uso de tipos genéricos, decoradores y publicación en NPM.",
