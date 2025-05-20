@@ -229,6 +229,12 @@
         "close": "Fechar",
         "open": "Ver Certificação"
       },
+      "reactErr": {
+        "title": "React: Erros comuns e como corrigi-los",
+        "description": "Curso rápido sobre erros comuns no React. O NX foi usado como gerenciador de monorepo e problemas como falta de documentação, listas sem chave, componentes enormes, caminhos relativos, tipos mal definidos, uso indevido do Redux e desorganização de estado foram resolvidos. Focado em manter código limpo e tipado.",
+        "close": "Fechar",
+        "open": "Ver Certificação"
+      },
       "tsa": {
         "title": "Typescript avançado",
         "description": "Um curso curto projetado para revisar conceitos avançados do TypeScript: configuração de projeto, empacotamento, organização em módulos, uso de tipos genéricos, decoradores e publicação no NPM.",

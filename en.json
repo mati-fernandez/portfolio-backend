@@ -230,6 +230,12 @@
         "close": "Close",
         "open": "View Certification"
       },
+      "reactErr": {
+        "title": "React: Common Mistakes and How to Fix Them",
+        "description": "Short course on common errors in React. NX was used as a monorepo manager and topics such as lack of documentation, keyless lists, huge components, relative paths, poorly defined types, misuse of Redux, and state disorganization were addressed. The focus was on maintaining clean, typed code.",
+        "close": "Close",
+        "open": "View Certification"
+      },
       "tsa": {
         "title": "Advanced TypeScript",
         "description": "A short course designed to review advanced TypeScript concepts: project setup, packaging, organizing into modules, using generic types, decorators, and publishing to NPM.",
