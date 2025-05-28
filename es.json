@@ -230,6 +230,12 @@
         "close": "Cerrar",
         "open": "Ver Certificación"
       },
+      "reactA": {
+        "title": "React Avanzado 1",
+        "description": "Curso breve de React Avanzado. Incluyó configuración del entorno, herramientas de desarrollo y debugging en VSCode. Profundicé en componentes avanzados como HOC, Portals, Error Boundaries y fragmentos. También cubrí buenas prácticas, manejo de formularios y pruebas para asegurar calidad y rendimiento en proyectos reales.",
+        "close": "Cerrar",
+        "open": "Ver Certificación"
+      },
       "reactErr": {
         "title": "React: Errores comunes y cómo solucionarlos",
         "description": "Curso breve sobre errores comunes en React. Se usó NX como gestor de monorepo y se abordaron temas como falta de documentación, listas sin key, componentes enormes, rutas relativas, tipos mal definidos, mal uso de Redux y desorganización del estado. Enfocado en mantener código limpio y tipado.",

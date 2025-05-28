@@ -230,6 +230,12 @@
         "close": "Close",
         "open": "View Certification"
       },
+      "reactA": {
+        "title": "Advanced React 1",
+        "description": "Short Advanced React course. It included environment setup, development tools, and debugging in VSCode. I delved into advanced components such as HOCs, Portals, Error Boundaries, and fragments. I also covered best practices, form handling, and testing to ensure quality and performance in real-world projects.",
+        "close": "Close",
+        "open": "View Certification"
+      },
       "reactErr": {
         "title": "React: Common Mistakes and How to Fix Them",
         "description": "Short course on common errors in React. NX was used as a monorepo manager and topics such as lack of documentation, keyless lists, huge components, relative paths, poorly defined types, misuse of Redux, and state disorganization were addressed. The focus was on maintaining clean, typed code.",
