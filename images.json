@@ -170,6 +170,11 @@
       "src": "images/cert-auto.png",
       "link": "https://github.com/mati-fernandez/portfolio-backend/blob/master/autodidact.md"
     },
+    "reactA2": {
+      "src": "images/cert-react-a2.png",
+      "link": "https://www.linkedin.com/learning/certificates/c5d04954fb9feb6c2e79e5a1c5856637de52094327dcfd64760c6ea5e7ed9172?trk=share_certificate",
+      "class": "secondary"
+    },
     "reactA": {
       "src": "images/cert-react-a.png",
       "link": "https://www.linkedin.com/learning/certificates/da319401fc4043a0f6cb810e19cd33457338f834329ae936f125329779d3541f",

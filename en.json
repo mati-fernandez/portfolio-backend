@@ -230,6 +230,12 @@
         "close": "Close",
         "open": "View Certification"
       },
+      "reactA2": {
+        "title": "Advanced React 2",
+        "description": "A short, advanced React course focused on best practices and modern tools. It covers monorepos with Nx, modular organization, Storybook for isolated components, an introduction to TypeScript, testing with Jest and the React Testing Library (including MSW), common design patterns, and deployment automation with GitHub Actions.",
+        "close": "Close",
+        "open": "View Certification"
+      },
       "reactA": {
         "title": "Advanced React 1",
         "description": "Short Advanced React course. It included environment setup, development tools, and debugging in VSCode. I delved into advanced components such as HOCs, Portals, Error Boundaries, and fragments. I also covered best practices, form handling, and testing to ensure quality and performance in real-world projects.",

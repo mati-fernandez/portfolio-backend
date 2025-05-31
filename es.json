@@ -230,6 +230,12 @@
         "close": "Cerrar",
         "open": "Ver Certificación"
       },
+      "reactA2": {
+        "title": "React Avanzado 2",
+        "description": "Curso breve de React avanzado centrado en buenas prácticas y herramientas modernas. Aborda monorepos con Nx, organización modular, Storybook para componentes aislados, introducción a TypeScript, testing con Jest y React Testing Library (incluyendo MSW), patrones de diseño comunes y automatización de despliegue con GitHub Actions.",
+        "close": "Cerrar",
+        "open": "Ver Certificación"
+      },
       "reactA": {
         "title": "React Avanzado 1",
         "description": "Curso breve de React Avanzado. Incluyó configuración del entorno, herramientas de desarrollo y debugging en VSCode. Profundicé en componentes avanzados como HOC, Portals, Error Boundaries y fragmentos. También cubrí buenas prácticas, manejo de formularios y pruebas para asegurar calidad y rendimiento en proyectos reales.",
