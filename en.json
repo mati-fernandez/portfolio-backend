@@ -175,6 +175,12 @@
         "close": "Close",
         "open": "View Exercise"
       },
+      "reddish": {
+        "title": "Reddit clone (Next.js)",
+        "description": "Reddit-like social platform built with Next.js 15 and Sanity CMS, featuring AI-powered moderation, Clerk authentication, voting, nested threads, community creation, and search. Uses Server Components, Server Actions, and Vercel AI SDK for real-time moderation. Clean, responsive UI with Tailwind CSS and ShadcnUI. To try AI moderation, deploy yourself and use your OpenAI API key. See my GitHub for full README and setup instructions.",
+        "close": "Close",
+        "open": "View Exercise"
+      },
       "draw": {
         "title": "Draw (Vanilla JS; for PC)",
         "description": "Introduction to creating graphics on the web using the HTML5 Canvas element and JavaScript to draw.",

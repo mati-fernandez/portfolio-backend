@@ -174,6 +174,18 @@
         "close": "Fechar",
         "open": "Ver Exercício"
       },
+      "ecommerce": {
+        "title": "eCommerce (Next.js)",
+        "description": "Desenvolvi uma aplicação FullStack com Next.js 15, utilizando Server Components, Server Actions e novos mecanismos de cache para otimizar o desempenho. Integrei o Sanity CMS, o Clerk para autenticação, o Stripe para pagamentos e o Tailwind CSS com o ShadCN UI para design. O Zustand cuidou do estado global e o aplicativo foi implantado no Vercel. (Use 42 repetidamente para cartão e 424 código; Os bloqueadores de anúncios podem quebrar o aplicativo).",
+        "close": "Fechar",
+        "open": "Ver Exercício"
+      },
+      "reddish": {
+        "title": "Clone do Reddit (Next.js)",
+        "description": "Plataforma social semelhante ao Reddit, desenvolvida com Next.js 15 e Sanity CMS, com moderação com tecnologia de IA, autenticação Clerk, votação, threads aninhadas, criação de comunidade e busca. Utiliza Componentes de Servidor, Ações de Servidor e Vercel AI SDK para moderação em tempo real. Interface de usuário limpa e responsiva com Tailwind CSS e ShadcnUI. Para experimentar a moderação de IA, faça a implantação e use sua chave de API OpenAI. Consulte meu GitHub para obter o arquivo README completo e as instruções de configuração.",
+        "close": "Fechar",
+        "open": "Ver Exercício"
+      },
       "draw": {
         "title": "Desenho (JS Puro; para PC)",
         "description": "Introdução à criação de gráficos na web usando o elemento Canvas do HTML5 e JavaScript para desenhar.",

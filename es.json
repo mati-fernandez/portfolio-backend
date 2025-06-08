@@ -175,6 +175,12 @@
         "close": "Cerrar",
         "open": "Ver Ejercicio"
       },
+      "reddish": {
+        "title": "Clon de Reddit (Next.js)",
+        "description": "Red social similar a Reddit, desarrollada con Next.js 15 y Sanity CMS, que incluye moderación con IA, autenticación de Clerk, votación, hilos anidados, creación de comunidades y búsqueda. Utiliza componentes de servidor, acciones de servidor y el SDK Vercel AI para moderación en tiempo real. Interfaz de usuario limpia y responsiva con Tailwind CSS y ShadcnUI. Para probar la moderación con IA, desplega tú mismo y usa tu clave API de OpenAI. Consulta mi GitHub para obtener el archivo README completo y las instrucciones de configuración.",
+        "close": "Cerrar",
+        "open": "Ver Ejercicio"
+      },
       "draw": {
         "title": "Dibujo (JS Vainilla; para PC)",
         "description": "Introducción a la creación de gráficos en la web usando el elemento Canvas de HTML5 y JavaScript para dibujar.",
