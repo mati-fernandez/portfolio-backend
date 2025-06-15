@@ -181,6 +181,12 @@
         "close": "Cerrar",
         "open": "Ver Ejercicio"
       },
+      "ram": {
+        "title": "Rick & Morty (React Native + Expo)",
+        "description": "Desarrollé una app mobile desde cero usando React Native con Expo, enfocada en consumir y mostrar datos desde una API pública. El proyecto incluye navegación con expo-router (Stacks y Tabs), diseño responsive con nativewind, animaciones básicas con Animated, y manejo de imágenes y SVGs. También trabajé en optimizar el render, resolver glitches específicos de headers personalizados y ajustar el diseño para real devices. El foco fue llevar buenas prácticas del frontend web a mobile, con estructura limpia y reutilización de componentes.",
+        "close": "Cerrar",
+        "open": "Ver Ejercicio"
+      },
       "draw": {
         "title": "Dibujo (JS Vainilla; para PC)",
         "description": "Introducción a la creación de gráficos en la web usando el elemento Canvas de HTML5 y JavaScript para dibujar.",
