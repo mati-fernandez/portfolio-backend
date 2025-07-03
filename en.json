@@ -242,6 +242,12 @@
         "close": "Close",
         "open": "View Certification"
       },
+      "ind": {
+        "title": "Industry 4.0",
+        "description": "Training focused on understanding the fundamentals of Industry 4.0, exploring devices used in industrial environments and the practical application of Python for data analysis, signal visualization, and automation. Key concepts of artificial intelligence applied to image recognition were also covered, along with basic cybersecurity concepts.",
+        "close": "Close",
+        "open": "View Certification"
+      },
       "reactA2": {
         "title": "Advanced React 2",
         "description": "A short, advanced React course focused on best practices and modern tools. It covers monorepos with Nx, modular organization, Storybook for isolated components, an introduction to TypeScript, testing with Jest and the React Testing Library (including MSW), common design patterns, and deployment automation with GitHub Actions.",
