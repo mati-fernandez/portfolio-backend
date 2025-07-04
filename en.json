@@ -187,6 +187,12 @@
         "close": "Close",
         "open": "View Exercise"
       },
+      "wallet": {
+        "title": "Wallet (React Native + Expo)",
+        "description": "I developed a Wallet Full Stack for the Personal Finance Registry, with Fronnd in React Native (Expo Router) and Backend in Node.JS. I implemented authentication with Clerk, Database in Neon, Redis for Limiting, and render for the deployment of the server. The app operates in Mobile (Android) and on web (with separate Build), using EAS for Builds and Hosting.",
+        "close": "Close",
+        "open": "View Exercise"
+      },
       "draw": {
         "title": "Draw (Vanilla JS; for PC)",
         "description": "Introduction to creating graphics on the web using the HTML5 Canvas element and JavaScript to draw.",

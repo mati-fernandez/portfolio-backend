@@ -174,12 +174,6 @@
         "close": "Fechar",
         "open": "Ver Exercício"
       },
-      "ecommerce": {
-        "title": "eCommerce (Next.js)",
-        "description": "Desenvolvi uma aplicação FullStack com Next.js 15, utilizando Server Components, Server Actions e novos mecanismos de cache para otimizar o desempenho. Integrei o Sanity CMS, o Clerk para autenticação, o Stripe para pagamentos e o Tailwind CSS com o ShadCN UI para design. O Zustand cuidou do estado global e o aplicativo foi implantado no Vercel. (Use 42 repetidamente para cartão e 424 código; Os bloqueadores de anúncios podem quebrar o aplicativo).",
-        "close": "Fechar",
-        "open": "Ver Exercício"
-      },
       "reddish": {
         "title": "Clone do Reddit (Next.js)",
         "description": "Plataforma social semelhante ao Reddit, desenvolvida com Next.js 15 e Sanity CMS, com moderação com tecnologia de IA, autenticação Clerk, votação, threads aninhadas, criação de comunidade e busca. Utiliza Componentes de Servidor, Ações de Servidor e Vercel AI SDK para moderação em tempo real. Interface de usuário limpa e responsiva com Tailwind CSS e ShadcnUI. Para experimentar a moderação de IA, faça a implantação e use sua chave de API OpenAI. Consulte meu GitHub para obter o arquivo README completo e as instruções de configuração.",
@@ -189,6 +183,12 @@
       "ram": {
         "title": "Rick e Morty (React Native + Expo)",
         "description": "Criei um aplicativo mobile do zero usando React Native e Expo, com foco no consumo e exibição de dados de uma API pública. O projeto inclui navegação com expo-router (usando Stacks e Tabs), design responsivo via Nativewind, animações básicas usando Animated e manipulação de imagens e SVGs. Também trabalhei na otimização do comportamento de renderização, na resolução de problemas relacionados a cabeçalhos em dispositivos reais e no refinamento da consistência do layout. O objetivo era trazer práticas de frontend limpas para o desenvolvimento mobile com uma estrutura modular e sustentável.",
+        "close": "Fechar",
+        "open": "Ver Exercício"
+      },
+      "wallet": {
+        "title": "Carteira (React Native + Expo)",
+        "description": "Desenvolvi uma pilha cheia de carteira para o Registro de Finanças Pessoais, com Fronnd em React Native (Expo Router) e back -end em Node.js. Implementei autenticação com funcionário, banco de dados em neon, redis para limitação e renderizar para a implantação do servidor. O aplicativo opera no Mobile (Android) e na Web (com construção separada), usando o EAS para compilações e hospedagem.",
         "close": "Fechar",
         "open": "Ver Exercício"
       },

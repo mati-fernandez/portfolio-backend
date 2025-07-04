@@ -187,6 +187,12 @@
         "close": "Cerrar",
         "open": "Ver Ejercicio"
       },
+      "wallet": {
+        "title": "Billetera (React Native + Expo)",
+        "description": "Desarrollé una wallet full stack para el registro personal de finanzas, con frontend en React Native (Expo Router) y backend en Node.js. Implementé autenticación con Clerk, base de datos en Neon, Redis para rate limiting, y Render para el despliegue del servidor. La app funciona en mobile (Android) y en web (con build separado), usando EAS para builds y hosting.",
+        "close": "Cerrar",
+        "open": "Ver Ejercicio"
+      },
       "draw": {
         "title": "Dibujo (JS Vainilla; para PC)",
         "description": "Introducción a la creación de gráficos en la web usando el elemento Canvas de HTML5 y JavaScript para dibujar.",

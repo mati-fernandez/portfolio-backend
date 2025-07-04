@@ -143,7 +143,12 @@
     },
     "ram": {
       "src": "images/ram.png",
-      "link": "https://www.youtube.com/shorts/BeuDut40asc"
+      "link": "https://www.youtube.com/shorts/BeuDut40asc",
+      "class": "secondary"
+    },
+    "wallet": {
+      "src": "images/wallet.png",
+      "link": "https://matifer-wallet.expo.app/"
     },
     "draw": {
       "src": "images/dibujo-canvas.png",
