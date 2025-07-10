@@ -130,6 +130,12 @@
         "description": "Proyecto web de alojamiento turístico hecho en Local WP, usando plugins, editores de temas y páginas (Gutenberg), con diseño responsivo. Agregué funciones con JS en el functions.php (como mensajes de WhatsApp personalizados) y configuré SMTP para el formulario. Lo subí a un servidor gratuito y realicé varias configs, incluyendo el SSL.",
         "close": "Cerrar",
         "open": "Abrir proyecto"
+      },
+      "snake": {
+        "title": "Juego de la Serpiente (React + TS)",
+        "description": "Un clásico juego de la serpiente creado con React, TypeScript y la API Canvas. Diseñado para ser responsivo y jugable tanto en computadoras como en dispositivos móviles. Incluye controles táctiles y de teclado, puntuaciones altas persistentes, niveles de dificultad y una interfaz minimalista. Un reto personal para crear un bucle de juego simple sin motores externos, utilizando únicamente renderizado nativo y estado de React.",
+        "close": "Cerrar",
+        "open": "Abrir proyecto"
       }
     }
   },

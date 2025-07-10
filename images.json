@@ -113,6 +113,10 @@
       "src": "images/tranquilidad.png",
       "link": "https://tranquilidadcabanas.wuaze.com/",
       "class": "secondary"
+    },
+    "snake": {
+      "src": "images/snake.png",
+      "link": "https://mati-snake.vercel.app/"
     }
   },
   "odyssey": {

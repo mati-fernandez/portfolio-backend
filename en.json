@@ -130,6 +130,12 @@
         "description": "A tourist accommodation website project built in Local WP, using plugins, theme editors, and pages (Gutenberg), with a responsive design. I added functions with JS to functions.php (such as custom WhatsApp messages) and configured SMTP for the form. I uploaded it to a free server and made several configurations, including SSL.",
         "close": "Close",
         "open": "Open project"
+      },
+      "snake": {
+        "title": "Snake Game (React + TS)",
+        "description": "A classic Snake game built with React, TypeScript, and the Canvas API. Designed to be responsive and playable on both desktop and mobile. Features keyboard and touch controls, persistent high scores, difficulty settings, and a minimal UI. A personal challenge to build a simple game loop without external engines, using only native rendering and React state.",
+        "close": "Close",
+        "open": "Open project"
       }
     }
   },
