@@ -64,6 +64,9 @@
     },
     "tailwind": {
       "title": "Tailwind"
+    },
+    "native": {
+      "title": "React Native"
     }
   },
   "projects": {

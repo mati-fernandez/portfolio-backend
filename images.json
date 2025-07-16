@@ -71,6 +71,10 @@
     "tailwind": {
       "src": "images/tailwind.webp",
       "progress": "70%"
+    },
+    "native": {
+      "src": "images/react.png",
+      "progress": "33%"
     }
   },
   "projects": {
