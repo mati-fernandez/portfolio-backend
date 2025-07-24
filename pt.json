@@ -136,7 +136,7 @@
       },
       "snake": {
         "title": "Jogo da Cobra (React + TS)",
-        "description": "Um jogo clássico de Snake desenvolvido com React, TypeScript e a API Canvas. Projetado para ser responsivo e jogável tanto em desktops quanto em dispositivos móveis. Possui controles de teclado e toque, pontuações altas constantes, níveis de dificuldade e uma interface minimalista. Um desafio pessoal para construir um loop de jogo simples sem engines externas, usando apenas renderização nativa e estado React.",
+        "description": "O jogo de cobra construído com React, Typescript, Zustand, Tailwind CSS e API de tela. Projetado para ser responsivo e jogável no desktop e no celular. Apresenta controles de teclado e toque, pontuações altas persistentes, configurações de dificuldade e interface do usuário mínima. Loop de jogo personalizado com renderização nativa e desenho de lona, incluindo animações suaves e cabeça de cobra direcional.",
         "close": "Fechar",
         "open": "Abrir projeto"
       }

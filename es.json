@@ -136,7 +136,7 @@
       },
       "snake": {
         "title": "Juego de la Serpiente (React + TS)",
-        "description": "Un clásico juego de la serpiente creado con React, TypeScript y la API Canvas. Diseñado para ser responsivo y jugable tanto en computadoras como en dispositivos móviles. Incluye controles táctiles y de teclado, puntuaciones altas persistentes, niveles de dificultad y una interfaz minimalista. Un reto personal para crear un bucle de juego simple sin motores externos, utilizando únicamente renderizado nativo y estado de React.",
+        "description": "El juego de la serpiente construido con React, TypeScript, Zustand, Tailwind CSS y la API de lienzo. Diseñado para ser receptivo y jugable tanto en escritorio como en dispositivos móviles. Cuenta con controles de teclado y táctil, puntajes altos persistentes, configuraciones de dificultad y una interfaz de usuario mínima. Bucle de juego personalizado con representación nativa y dibujo de lienzo, incluidas animaciones suaves y cabeza de serpiente direccional.",
         "close": "Cerrar",
         "open": "Abrir proyecto"
       }
