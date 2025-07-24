@@ -75,6 +75,10 @@
     "native": {
       "src": "images/react.png",
       "progress": "33%"
+    },
+    "zustand": {
+      "src": "images/zustand.png",
+      "progress": "60%"
     }
   },
   "projects": {

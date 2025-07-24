@@ -67,6 +67,9 @@
     },
     "native": {
       "title": "React Native"
+    },
+    "zustand": {
+      "title": "Zustand"
     }
   },
   "projects": {
