@@ -260,6 +260,12 @@
         "close": "Cerrar",
         "open": "Ver Certificación"
       },
+      "networking": {
+        "title": "Fundamentos del Networking Profesional",
+        "description": "En este curso vi conceptos esenciales como comprender qué es y para qué sirve el networking, desarrollo de conexiones a largo plazo, estrategias para interactuar con diferentes tipos de personalidades, definir objetivos, identificar contactos clave, elaborar mensajes efectivos y estrategias de networking adaptadas a diversos escenarios como eventos y entornos digitales.",
+        "close": "Cerrar",
+        "open": "Ver Certificación"
+      },
       "ind": {
         "title": "Industria 4.0",
         "description": "Formación orientada a comprender los fundamentos de la Industria 4.0, explorando dispositivos utilizados en entornos industriales y la aplicación práctica de Python para análisis de datos, visualización de señales y automatización. También se abordaron conceptos clave de inteligencia artificial aplicada al reconocimiento de imágenes, junto con nociones básicas de ciberseguridad.",

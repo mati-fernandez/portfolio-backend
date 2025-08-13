@@ -260,6 +260,12 @@
         "close": "Close",
         "open": "View Certification"
       },
+      "networking": {
+        "title": "Professional Networking Fundamentals",
+        "description": "In this course, I covered essential concepts such as understanding what networking is and what it's for, developing long-term connections, strategies for interacting with different personality types, defining goals, identifying key contacts, crafting effective messages, and networking strategies tailored to diverse scenarios such as events and digital environments.",
+        "close": "Close",
+        "open": "View Certification"
+      },
       "ind": {
         "title": "Industry 4.0",
         "description": "Training focused on understanding the fundamentals of Industry 4.0, exploring devices used in industrial environments and the practical application of Python for data analysis, signal visualization, and automation. Key concepts of artificial intelligence applied to image recognition were also covered, along with basic cybersecurity concepts.",

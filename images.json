@@ -195,6 +195,11 @@
       "src": "images/cert-auto.png",
       "link": "https://github.com/mati-fernandez/portfolio-backend/blob/master/autodidact.md"
     },
+    "networking": {
+      "src": "images/cert-networking.png",
+      "link": "https://www.linkedin.com/learning/certificates/3f1c7567c8ec85ead6e21c0d1d26526eb00be0f79dabe473f451568729b218e4?trk=share_certificate",
+      "class": "secondary"
+    },
     "ind": {
       "src": "images/cert-ind.png",
       "link": "images/cert-ind.png",
