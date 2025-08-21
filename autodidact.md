@@ -31,3 +31,5 @@ Estos canales también publican muchos videos adicionales, no necesariamente en 
 [Curso Visual Studio Code & Emmet - Jon Mircha](https://www.youtube.com/watch?v=KpgVF0mXOUs)
 
 [Curso de React 2024 - Midu (Solo vi uno o dos videos de esta lista creo)](https://www.youtube.com/watch?v=7iobxzd_2wY&list=PLUofhDIg_38q4D0xNWp7FEHOTcZhjWJ29)
+
+[Curso Ciberseguridad Desde Cero 2025 (sin música de fondo)- VulnHunters](https://www.youtube.com/watch?v=y9NhaYH-FV8)
