@@ -16,9 +16,11 @@ Estos canales también publican muchos videos adicionales, no necesariamente en 
 
 ## Cursos principales (quizás olvido listar alguno que otro):
 
-[Git y GitHub - Soy Dalto](https://www.youtube.com/watch?v=HiXLkL42tMU)
+[Curso de GIT desde CERO (Completo) - Soy Dalto](https://www.youtube.com/watch?v=9ZJ-K-zk_Go)
 
-[SQL desde cero - Soy Dalto](https://www.youtube.com/watch?v=DFg3g9wlXpo)
+[SQL desde cero - Soy Dalto](https://www.youtube.com/watch?v=DFg1V-rO6Pg)
+
+[Curso de SQL desde cero | Bases de Datos para principiantes - Midu](https://www.youtube.com/watch?v=6of9yHaGC78)
 
 [React.js - Jon Mircha](https://www.youtube.com/playlist?list=PLvq-jIkSeTUZ5XcUw8fJPTBKEHEKPMTKk)
 
