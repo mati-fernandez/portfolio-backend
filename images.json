@@ -79,6 +79,10 @@
     "zustand": {
       "src": "images/zustand.png",
       "progress": "60%"
+    },
+    "styledComponents": {
+      "src": "images/styled-components.png",
+      "progress": "33%"
     }
   },
   "projects": {
